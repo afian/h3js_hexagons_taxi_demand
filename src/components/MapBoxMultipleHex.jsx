@@ -20,10 +20,10 @@ function MapBox() {
             });
         }
 
-        console.log(singaporeHexagonsArr);
+        // console.log(singaporeHexagonsArr);
 
         const rs = singaporeHexagonsArr.map((row) => {
-            const style = getRandomStyle(row);
+            const style = getStyle(row);
             return {
               type: "Feature",
               properties: {
