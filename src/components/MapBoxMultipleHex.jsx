@@ -11,18 +11,16 @@ function MapBox() {
     const [singaporeHexagonsArr, setSingaporeHexagonsArr] = useState([]);
 
     const onLoad = () => {
-        const singaporeHexagonsArr = [];
+        const sgHexagonsArr = [];
 
         for (const hexagon in singaporeHexagonsObj) {
-            singaporeHexagonsArr.push({
+            sgHexagonsArr.push({
               hexindex7: hexagon,
               bookingCount: singaporeHexagonsObj[hexagon]
             });
         }
-
-        // console.log(singaporeHexagonsArr);
-
-        const rs = singaporeHexagonsArr.map((row) => {
+        
+        const rs = sgHexagonsArr.map((row) => {
             const style = getStyle(row);
             return {
               type: "Feature",
