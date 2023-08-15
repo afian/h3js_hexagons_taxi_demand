@@ -1,0 +1,39 @@
+.wrapper {
+  position: relative;
+  padding: 20px;
+
+  .session {
+    position: absolute;
+    left: 5px;
+    top: 0px;
+    z-index: 2;
+    padding: 10px 20px;
+    background-color: white;
+    min-width: 280px;
+
+    .row {
+      height: 12px;
+      width: 100%;
+    }
+    
+    .colors {
+      background: linear-gradient(to right, rgb(254, 221, 135, 0.2), rgb(254, 217, 118, .4), rgb(252, 150, 83, .6), rgb(247, 118, 69, .7), rgb(225, 76, 72, .8));
+      margin-bottom: 5px;
+    }
+    
+    .label {
+      width: 20%;
+      display: inline-block;
+      text-align: center;
+    }
+  }
+
+  .slider {
+    margin-top: 20px;
+  }
+
+  .action {
+    margin-top: 20px;
+    text-align: center;
+  }
+}

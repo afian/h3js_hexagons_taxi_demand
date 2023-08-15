@@ -1,43 +1,48 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import "mapbox-gl/dist/mapbox-gl.css";
-import Map, { Layer, Source, MapRef, Marker } from "react-map-gl";
-import React, {useRef, useState } from "react";
+import Map, { Layer, Source } from "react-map-gl";
+import React, { useEffect, useState } from "react";
 import { cellToBoundary } from "h3-js";
+import sortBy from "lodash/sortBy";
+import 'rc-slider/assets/index.css';
 
+import './MapBoxMultipleHex.scss';
+import Slider from "rc-slider";
+import moment from "moment";
 
+const singaporeTaxiData = require('../data/singapore_taxi_data.json');
+const singaporeTaxiHexagon = require('../data/singapore_taxi_hexagon.json');
+const sortTaxiData = sortBy(singaporeTaxiData, (element) => moment(element.date_time, 'DD/MM/YYYY HH:mm:ss'))
+const formatDateTime= "DD/MM/YYYY HH:mm:ss"
+const firstDateTime = moment(sortTaxiData[0].date_time, formatDateTime)
+const lastDateTime = moment(sortTaxiData[sortTaxiData.length - 1].date_time, formatDateTime)
+
+let gb = {
+  started: false,
+  isPlaying: false,
+  step: 0
+}
+
+const dateTimes = [];
+let datetime = firstDateTime;
+sortTaxiData.forEach(() => {
+  if (datetime.isAfter(lastDateTime)) return;
+  dateTimes.push(datetime);
+  datetime = moment(datetime).add(15, 'minutes')
+})
 
 function MapBox() {
-
-    const singaporeHexagonsObj = require('../data/singapore_hexagons_count.json');
     const [singaporeHexagonsArr, setSingaporeHexagonsArr] = useState([]);
+    const [sliderTitle, setSliderTitle] = useState('');
+    const [isPlaying, setIsPlaying] = useState(false);
+    const [currentStep, setCurrentStep] = useState(0);
 
-    const onLoad = () => {
-        const sgHexagonsArr = [];
-
-        for (const hexagon in singaporeHexagonsObj) {
-            sgHexagonsArr.push({
-              hexindex7: hexagon,
-              bookingCount: singaporeHexagonsObj[hexagon]
-            });
-        }
-        
-        const rs = sgHexagonsArr.map((row) => {
-            const style = getStyle(row);
-            return {
-              type: "Feature",
-              properties: {
-                color: style.color,
-                opacity: style.opacity,
-                id: row.hexindex7,
-              },
-              geometry: {
-                type: "Polygon",
-                coordinates: [cellToBoundary(row.hexindex7, true)],
-              },
-            };
-        });
-        setSingaporeHexagonsArr(rs);
-        
-    };
+    useEffect(() => {
+      if(!gb.started) {
+        handleStart();
+        gb.started = true;
+      }
+    }, [])
 
     const getRandomStyle = (row) => {
         const styles = [
@@ -66,10 +71,63 @@ function MapBox() {
           return styles[(Math.floor(Math.random()*styles.length))];
     }
 
-    const getStyle = (row) => {
+    const getHexagon = () => {
+      if (gb.step === 0) return;
+      const singaporeHexagonsObj = singaporeTaxiHexagon[dateTimes[gb.step - 1].format(formatDateTime) + '-'+ dateTimes[gb.step].format(formatDateTime)]
+      const sgHexagonsArr = [];
 
-        // console.log(row);
+      for (const hexagon in singaporeHexagonsObj) {
+          sgHexagonsArr.push({
+            hexindex7: hexagon,
+            bookingCount: singaporeHexagonsObj[hexagon]
+          });
+      }
+      
+      const rs = sgHexagonsArr.map((row) => {
+          const style = getStyle(row);
+          return {
+            type: "Feature",
+            properties: {
+              color: style.color,
+              opacity: style.opacity,
+              id: row.hexindex7,
+            },
+            geometry: {
+              type: "Polygon",
+              coordinates: [cellToBoundary(row.hexindex7, true)],
+            },
+          };
+      });
+      setSingaporeHexagonsArr(rs);
+    }
     
+    const handleStart = () => {
+      const nextStep = gb.step + 1;
+      if(nextStep < dateTimes.length && gb.isPlaying) {
+        setStep(nextStep);
+      }
+
+      setTimeout(handleStart, 2000);
+    }
+
+    const handlePlay = () => {
+      gb.isPlaying = !gb.isPlaying;
+      setIsPlaying(gb.isPlaying);
+    }
+
+    const setStep = (step) => {
+      gb.step = step;
+      setCurrentStep(gb.step);
+      if (gb.step === 0) {
+        setSliderTitle('')
+        setSingaporeHexagonsArr([])
+      } else {
+        setSliderTitle(dateTimes[gb.step - 1].format('HH:mm') + ' - ' + dateTimes[gb.step].format('HH:mm'))
+      }
+      getHexagon();
+    };
+  
+    const getStyle = (row) => {
         const styles = [
           {
             color: '#FEDD87',
@@ -115,7 +173,7 @@ function MapBox() {
   
     return (
       
-        <div>
+        <div className="wrapper">
           <div className="map">
             <Map
               initialViewState={{
@@ -126,12 +184,11 @@ function MapBox() {
                 pitch: 0,
               }}
               mapStyle="mapbox://styles/mapbox/light-v9"
-              mapboxAccessToken="YOUR_MAPBOX_ACCESS_TOKEN"
+              mapboxAccessToken="pk.eyJ1IjoidGhlcHJvZiIsImEiOiJja3Q5amlqaXgxNjUwMm5wY3NrdmplbzVxIn0.C3zhU7lekidOJmARhNyBdw"
               style={{
                 height: "100vh",
                 width: "100vw",
               }}
-              onLoad={onLoad}
             >
               <Source
                 type="geojson"
@@ -151,12 +208,36 @@ function MapBox() {
                     },
                   }}
                 />
-              </Source>
-              
-  
-  
+              </Source>  
             </Map>
-          </div> 
+          </div>
+          <div className="session">
+            <h4>Casualty</h4>
+            <div className="row colors"></div>
+            <div className="row labels">
+              <div className="label">1</div>
+              <div className="label">250</div>
+              <div className="label">500</div>
+              <div className="label">1000</div>
+              <div className="label">1500+</div>
+            </div>
+            <h4>Date: {dateTimes[0].format('DD/MM/YYYY')}</h4>
+            <h4>Time: {sliderTitle}</h4>
+            <div className="slider">
+              <Slider
+                onChange={setStep}
+                min={0}
+                max={dateTimes.length - 1}
+                defaultValue={currentStep}
+                value={currentStep || 0}
+              />
+            </div>
+            <div className="action">
+              <button onClick={() => handlePlay()}>
+                <img src={isPlaying ? "/pause-circle.svg" :"/play-circle.svg"} alt="icon" />
+              </button>
+            </div>
+          </div>
         </div>
     );
   
