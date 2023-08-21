@@ -17,12 +17,6 @@ const formatDateTime= "DD/MM/YYYY HH:mm:ss"
 const firstDateTime = moment(sortTaxiData[0].date_time, formatDateTime)
 const lastDateTime = moment(sortTaxiData[sortTaxiData.length - 1].date_time, formatDateTime)
 
-let gb = {
-  started: false,
-  isPlaying: false,
-  step: 0
-}
-
 const dateTimes = [];
 let datetime = firstDateTime;
 sortTaxiData.forEach(() => {
@@ -33,16 +27,12 @@ sortTaxiData.forEach(() => {
 
 function MapBox() {
     const [singaporeHexagonsArr, setSingaporeHexagonsArr] = useState([]);
-    const [sliderTitle, setSliderTitle] = useState('');
-    const [isPlaying, setIsPlaying] = useState(false);
-    const [currentStep, setCurrentStep] = useState(0);
+    const [sliderTitle, setSliderTitle] = useState(dateTimes[0].format('HH:mm') + ' - ' + dateTimes[1].format('HH:mm'));
+    const [currentStep, setCurrentStep] = useState(1);
 
     useEffect(() => {
-      if(!gb.started) {
-        handleStart();
-        gb.started = true;
-      }
-    }, [])
+      getHexagon();
+    }, [currentStep])
 
     const getRandomStyle = (row) => {
         const styles = [
@@ -72,8 +62,7 @@ function MapBox() {
     }
 
     const getHexagon = () => {
-      if (gb.step === 0) return;
-      const singaporeHexagonsObj = singaporeTaxiHexagon[dateTimes[gb.step - 1].format(formatDateTime) + '-'+ dateTimes[gb.step].format(formatDateTime)]
+      const singaporeHexagonsObj = singaporeTaxiHexagon[dateTimes[currentStep - 1].format(formatDateTime) + '-'+ dateTimes[currentStep].format(formatDateTime)]
       const sgHexagonsArr = [];
 
       for (const hexagon in singaporeHexagonsObj) {
@@ -100,32 +89,13 @@ function MapBox() {
       });
       setSingaporeHexagonsArr(rs);
     }
-    
-    const handleStart = () => {
-      const nextStep = gb.step + 1;
-      if(nextStep < dateTimes.length && gb.isPlaying) {
-        setStep(nextStep);
-      }
 
-      setTimeout(handleStart, 2000);
+    const onChangeSlider = (values) => {
+      setCurrentStep(values)
+      setSliderTitle(dateTimes[values - 1].format('HH:mm') + ' - ' + dateTimes[values].format('HH:mm'))
     }
+  
 
-    const handlePlay = () => {
-      gb.isPlaying = !gb.isPlaying;
-      setIsPlaying(gb.isPlaying);
-    }
-
-    const setStep = (step) => {
-      gb.step = step;
-      setCurrentStep(gb.step);
-      if (gb.step === 0) {
-        setSliderTitle('')
-        setSingaporeHexagonsArr([])
-      } else {
-        setSliderTitle(dateTimes[gb.step - 1].format('HH:mm') + ' - ' + dateTimes[gb.step].format('HH:mm'))
-      }
-      getHexagon();
-    };
   
     const getStyle = (row) => {
         const styles = [
@@ -225,17 +195,12 @@ function MapBox() {
             <h4>Time: {sliderTitle}</h4>
             <div className="slider">
               <Slider
-                onChange={setStep}
-                min={0}
+                onChange={onChangeSlider}
+                min={1}
                 max={dateTimes.length - 1}
                 defaultValue={currentStep}
                 value={currentStep || 0}
               />
-            </div>
-            <div className="action">
-              <button onClick={() => handlePlay()}>
-                <img src={isPlaying ? "/pause-circle.svg" :"/play-circle.svg"} alt="icon" />
-              </button>
             </div>
           </div>
         </div>
