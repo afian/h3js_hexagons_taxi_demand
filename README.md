@@ -8,7 +8,7 @@ Taken from:
 - Visualizing taxi demand over time - adding interactivity to h3 js (part 3 of 3) - coming soon!
 
  How to run the app:
- 1. cd into your project and open the file `src/components/MapBoxMultipleHex.jsx`, replacing `Map`
+ 1. cd into your project and open the file `src/components/MapBoxMultipleHex.jsx`, replacing `YOUR_MAPBOX_ACCESS_TOKEN` with a valid MapBox key.
  2. Open terminal and run `npm install` (this will install the required dependencies)
  3. Run `npm start`
 
