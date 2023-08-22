@@ -8,8 +8,8 @@ Taken from:
 - Visualizing taxi demand over time - adding interactivity to h3 js (part 3 of 3) - coming soon!
 
  How to run the app:
- 1. cd into your project
- 2. Open terminal and run 'npm install' (this will install the required dependencies)
+ 1. cd into your project and open the file `src/components/MapBoxMultipleHex.jsx`, replacing `Map`
+ 2. Open terminal and run `npm install` (this will install the required dependencies)
  3. Run `npm start`
 
 Please contact afian@afi.io if you have any questions or suggestions. Pull requests are welcome.
