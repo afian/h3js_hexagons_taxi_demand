@@ -1,1772 +1,6992 @@
 {
-    "03/08/2010 06:00:05-03/08/2010 06:15:05": {
-      "876526375ffffff": 0,
-      "876526acaffffff": 0,
-      "876526365ffffff": 0,
-      "876526ac3ffffff": 0,
-      "876526368ffffff": 0,
-      "876520cb0ffffff": 0,
-      "876520d82ffffff": 0,
-      "876520db3ffffff": 0,
-      "876526363ffffff": 0,
-      "876526ad1ffffff": 0,
-      "876520ca6ffffff": 0,
-      "876520d9dffffff": 0,
-      "876520d90ffffff": 0,
-      "876520cb4ffffff": 0,
-      "876520ca3ffffff": 0,
-      "876526366ffffff": 0,
-      "876520d86ffffff": 0,
-      "876526ac8ffffff": 0,
-      "876526341ffffff": 0,
-      "87652634effffff": 0,
-      "876520d92ffffff": 0,
-      "876526361ffffff": 0,
-      "876520cb1ffffff": 0,
-      "876520cb3ffffff": 0,
-      "876520ca1ffffff": 0,
-      "876520d98ffffff": 0,
-      "876526adcffffff": 0,
-      "876520d83ffffff": 0,
-      "876520d80ffffff": 0,
-      "876526aceffffff": 0,
-      "876520d96ffffff": 0,
-      "876526ac9ffffff": 0,
-      "876520d94ffffff": 1,
-      "876526ad9ffffff": 0,
-      "876520d93ffffff": 0,
-      "876526ac1ffffff": 0,
-      "876526addffffff": 0,
-      "876526349ffffff": 0,
-      "876526348ffffff": 0,
-      "876526ad8ffffff": 0,
-      "876526acdffffff": 0,
-      "876526accffffff": 0,
-      "876520ca4ffffff": 0,
-      "876520caeffffff": 0,
-      "876520db2ffffff": 0,
-      "876526360ffffff": 0,
-      "87652636cffffff": 0,
-      "876520d8affffff": 0,
-      "876526362ffffff": 0,
-      "876520ca0ffffff": 0,
-      "876520db1ffffff": 0,
-      "876520d99ffffff": 0,
-      "876520d8effffff": 0,
-      "876520d81ffffff": 0,
-      "876526364ffffff": 0,
-      "87652636effffff": 0,
-      "876526ad3ffffff": 0,
-      "876526343ffffff": 0,
-      "876520d9cffffff": 0,
-      "876526acbffffff": 0,
-      "876526adeffffff": 0,
-      "876520ca2ffffff": 0,
-      "87652634bffffff": 0,
-      "876526ac2ffffff": 0,
-      "876520d84ffffff": 0,
-      "876520d9bffffff": 0,
-      "876520cb5ffffff": 0,
-      "876526adbffffff": 0,
-      "876520da3ffffff": 0,
-      "87652636affffff": 0,
-      "87652636bffffff": 0,
-      "876520d91ffffff": 0,
-      "876520ca5ffffff": 0,
-      "876520cf6ffffff": 0,
-      "876520c82ffffff": 0,
-      "876520d9affffff": 0,
-      "876520d9effffff": 0,
-      "876520ca9ffffff": 0,
-      "876520cb6ffffff": 0,
-      "876520cadffffff": 0,
-      "87652634affffff": 0,
-      "87652634dffffff": 0,
-      "876520c94ffffff": 0,
-      "876520cacffffff": 0,
-      "876520d85ffffff": 0,
-      "876520c18ffffff": 0,
-      "876520c12ffffff": 0,
-      "876520c1affffff": 0,
-      "87652636dffffff": 0,
-      "876520c14ffffff": 0,
-      "876520c13ffffff": 0,
-      "876520cb2ffffff": 0,
-      "876520c11ffffff": 0,
-      "876520c80ffffff": 0,
-      "876520c84ffffff": 0,
-      "876520c1dffffff": 0,
-      "876520c15ffffff": 0,
-      "876526ad5ffffff": 0,
-      "876520c85ffffff": 0,
-      "876526ac6ffffff": 0,
-      "876520c16ffffff": 0,
-      "876520d8bffffff": 0,
-      "87652634cffffff": 0,
-      "876526344ffffff": 0,
-      "876520d89ffffff": 0,
-      "876520c1effffff": 0,
-      "876526ad0ffffff": 0,
-      "876526345ffffff": 0,
-      "876520c1cffffff": 0,
-      "876526ac0ffffff": 0,
-      "876520db0ffffff": 0,
-      "876520c95ffffff": 0,
-      "876526340ffffff": 0,
-      "876526369ffffff": 0,
-      "876520d95ffffff": 0,
-      "876520c86ffffff": 0
+  "03/08/2010 06:00:05-03/08/2010 06:15:05": [
+    {
+      "key": "876526375ffffff",
+      "count": 7
     },
-    "03/08/2010 06:15:05-03/08/2010 06:30:05": {
-      "876526375ffffff": 7,
-      "876526acaffffff": 3,
-      "876526365ffffff": 25,
-      "876526ac3ffffff": 19,
-      "876526368ffffff": 2,
-      "876520cb0ffffff": 32,
-      "876520d82ffffff": 18,
-      "876520db3ffffff": 47,
-      "876526363ffffff": 4,
-      "876526ad1ffffff": 37,
-      "876520ca6ffffff": 30,
-      "876520d9dffffff": 8,
-      "876520d90ffffff": 37,
-      "876520cb4ffffff": 10,
-      "876520ca3ffffff": 27,
-      "876526366ffffff": 19,
-      "876520d86ffffff": 51,
-      "876526ac8ffffff": 35,
-      "876526341ffffff": 59,
-      "87652634effffff": 18,
-      "876520d92ffffff": 27,
-      "876526361ffffff": 32,
-      "876520cb1ffffff": 24,
-      "876520cb3ffffff": 15,
-      "876520ca1ffffff": 13,
-      "876520d98ffffff": 1,
-      "876526adcffffff": 47,
-      "876520d83ffffff": 14,
-      "876520d80ffffff": 15,
-      "876526aceffffff": 57,
-      "876520d96ffffff": 13,
-      "876526ac9ffffff": 60,
-      "876520d94ffffff": 64,
-      "876526ad9ffffff": 1,
-      "876520d93ffffff": 8,
-      "876526ac1ffffff": 6,
-      "876526addffffff": 56,
-      "876526349ffffff": 32,
-      "876526348ffffff": 41,
-      "876526ad8ffffff": 24,
-      "876526acdffffff": 21,
-      "876526accffffff": 9,
-      "876520ca4ffffff": 2,
-      "876520caeffffff": 24,
-      "876520db2ffffff": 3,
-      "876526360ffffff": 44,
-      "87652636cffffff": 54,
-      "876520d8affffff": 11,
-      "876526362ffffff": 18,
-      "876520ca0ffffff": 30,
-      "876520db1ffffff": 1,
-      "876520d99ffffff": 12,
-      "876520d8effffff": 6,
-      "876520d81ffffff": 0,
-      "876526364ffffff": 16,
-      "87652636effffff": 5,
-      "876526ad3ffffff": 2,
-      "876526343ffffff": 0,
-      "876520d9cffffff": 4,
-      "876526acbffffff": 3,
-      "876526adeffffff": 2,
-      "876520ca2ffffff": 12,
-      "87652634bffffff": 0,
-      "876526ac2ffffff": 13,
-      "876520d84ffffff": 20,
-      "876520d9bffffff": 4,
-      "876520cb5ffffff": 13,
-      "876526adbffffff": 5,
-      "876520da3ffffff": 0,
-      "87652636affffff": 4,
-      "87652636bffffff": 3,
-      "876520d91ffffff": 0,
-      "876520ca5ffffff": 1,
-      "876520cf6ffffff": 0,
-      "876520c82ffffff": 0,
-      "876520d9affffff": 0,
-      "876520d9effffff": 1,
-      "876520ca9ffffff": 0,
-      "876520cb6ffffff": 0,
-      "876520cadffffff": 0,
-      "87652634affffff": 3,
-      "87652634dffffff": 1,
-      "876520c94ffffff": 1,
-      "876520cacffffff": 0,
-      "876520d85ffffff": 0,
-      "876520c18ffffff": 1,
-      "876520c12ffffff": 0,
-      "876520c1affffff": 1,
-      "87652636dffffff": 0,
-      "876520c14ffffff": 0,
-      "876520c13ffffff": 0,
-      "876520cb2ffffff": 0,
-      "876520c11ffffff": 0,
-      "876520c80ffffff": 0,
-      "876520c84ffffff": 1,
-      "876520c1dffffff": 0,
-      "876520c15ffffff": 0,
-      "876526ad5ffffff": 0,
-      "876520c85ffffff": 0,
-      "876526ac6ffffff": 0,
-      "876520c16ffffff": 0,
-      "876520d8bffffff": 0,
-      "87652634cffffff": 1,
-      "876526344ffffff": 0,
-      "876520d89ffffff": 0,
-      "876520c1effffff": 0,
-      "876526ad0ffffff": 0,
-      "876526345ffffff": 0,
-      "876520c1cffffff": 0,
-      "876526ac0ffffff": 0,
-      "876520db0ffffff": 0,
-      "876520c95ffffff": 0,
-      "876526340ffffff": 0,
-      "876526369ffffff": 0,
-      "876520d95ffffff": 54,
-      "876520c86ffffff": 0
+    {
+      "key": "876526acaffffff",
+      "count": 3
     },
-    "03/08/2010 06:30:05-03/08/2010 06:45:05": {
-      "876526375ffffff": 12,
-      "876526acaffffff": 12,
-      "876526365ffffff": 47,
-      "876526ac3ffffff": 47,
-      "876526368ffffff": 4,
-      "876520cb0ffffff": 52,
-      "876520d82ffffff": 36,
-      "876520db3ffffff": 97,
-      "876526363ffffff": 12,
-      "876526ad1ffffff": 107,
-      "876520ca6ffffff": 57,
-      "876520d9dffffff": 22,
-      "876520d90ffffff": 87,
-      "876520cb4ffffff": 20,
-      "876520ca3ffffff": 53,
-      "876526366ffffff": 35,
-      "876520d86ffffff": 102,
-      "876526ac8ffffff": 87,
-      "876526341ffffff": 137,
-      "87652634effffff": 28,
-      "876520d92ffffff": 42,
-      "876526361ffffff": 67,
-      "876520cb1ffffff": 44,
-      "876520cb3ffffff": 22,
-      "876520ca1ffffff": 25,
-      "876520d98ffffff": 5,
-      "876526adcffffff": 142,
-      "876520d83ffffff": 21,
-      "876520d80ffffff": 58,
-      "876526aceffffff": 119,
-      "876520d96ffffff": 32,
-      "876526ac9ffffff": 125,
-      "876520d94ffffff": 119,
-      "876526ad9ffffff": 2,
-      "876520d93ffffff": 14,
-      "876526ac1ffffff": 17,
-      "876526addffffff": 136,
-      "876526349ffffff": 59,
-      "876526348ffffff": 95,
-      "876526ad8ffffff": 51,
-      "876526acdffffff": 41,
-      "876526accffffff": 18,
-      "876520ca4ffffff": 7,
-      "876520caeffffff": 50,
-      "876520db2ffffff": 9,
-      "876526360ffffff": 91,
-      "87652636cffffff": 107,
-      "876520d8affffff": 25,
-      "876526362ffffff": 26,
-      "876520ca0ffffff": 52,
-      "876520db1ffffff": 4,
-      "876520d99ffffff": 19,
-      "876520d8effffff": 14,
-      "876520d81ffffff": 2,
-      "876526364ffffff": 29,
-      "87652636effffff": 15,
-      "876526ad3ffffff": 4,
-      "876526343ffffff": 3,
-      "876520d9cffffff": 14,
-      "876526acbffffff": 5,
-      "876526adeffffff": 9,
-      "876520ca2ffffff": 19,
-      "87652634bffffff": 0,
-      "876526ac2ffffff": 17,
-      "876520d84ffffff": 33,
-      "876520d9bffffff": 6,
-      "876520cb5ffffff": 18,
-      "876526adbffffff": 8,
-      "876520da3ffffff": 0,
-      "87652636affffff": 8,
-      "87652636bffffff": 3,
-      "876520d91ffffff": 3,
-      "876520ca5ffffff": 4,
-      "876520cf6ffffff": 1,
-      "876520c82ffffff": 0,
-      "876520d9affffff": 0,
-      "876520d9effffff": 2,
-      "876520ca9ffffff": 0,
-      "876520cb6ffffff": 0,
-      "876520cadffffff": 1,
-      "87652634affffff": 3,
-      "87652634dffffff": 3,
-      "876520c94ffffff": 2,
-      "876520cacffffff": 0,
-      "876520d85ffffff": 0,
-      "876520c18ffffff": 1,
-      "876520c12ffffff": 0,
-      "876520c1affffff": 1,
-      "87652636dffffff": 1,
-      "876520c14ffffff": 0,
-      "876520c13ffffff": 1,
-      "876520cb2ffffff": 0,
-      "876520c11ffffff": 0,
-      "876520c80ffffff": 0,
-      "876520c84ffffff": 1,
-      "876520c1dffffff": 0,
-      "876520c15ffffff": 0,
-      "876526ad5ffffff": 0,
-      "876520c85ffffff": 0,
-      "876526ac6ffffff": 0,
-      "876520c16ffffff": 0,
-      "876520d8bffffff": 0,
-      "87652634cffffff": 1,
-      "876526344ffffff": 0,
-      "876520d89ffffff": 0,
-      "876520c1effffff": 0,
-      "876526ad0ffffff": 0,
-      "876526345ffffff": 0,
-      "876520c1cffffff": 0,
-      "876526ac0ffffff": 0,
-      "876520db0ffffff": 0,
-      "876520c95ffffff": 0,
-      "876526340ffffff": 0,
-      "876526369ffffff": 0,
-      "876520d95ffffff": 94,
-      "876520c86ffffff": 0
+    {
+      "key": "876526365ffffff",
+      "count": 25
     },
-    "03/08/2010 06:45:05-03/08/2010 07:00:05": {
-      "876526375ffffff": 20,
-      "876526acaffffff": 17,
-      "876526365ffffff": 74,
-      "876526ac3ffffff": 95,
-      "876526368ffffff": 7,
-      "876520cb0ffffff": 65,
-      "876520d82ffffff": 67,
-      "876520db3ffffff": 141,
-      "876526363ffffff": 23,
-      "876526ad1ffffff": 191,
-      "876520ca6ffffff": 72,
-      "876520d9dffffff": 44,
-      "876520d90ffffff": 134,
-      "876520cb4ffffff": 25,
-      "876520ca3ffffff": 78,
-      "876526366ffffff": 53,
-      "876520d86ffffff": 203,
-      "876526ac8ffffff": 128,
-      "876526341ffffff": 212,
-      "87652634effffff": 43,
-      "876520d92ffffff": 71,
-      "876526361ffffff": 92,
-      "876520cb1ffffff": 62,
-      "876520cb3ffffff": 29,
-      "876520ca1ffffff": 47,
-      "876520d98ffffff": 7,
-      "876526adcffffff": 264,
-      "876520d83ffffff": 49,
-      "876520d80ffffff": 106,
-      "876526aceffffff": 186,
-      "876520d96ffffff": 49,
-      "876526ac9ffffff": 189,
-      "876520d94ffffff": 185,
-      "876526ad9ffffff": 6,
-      "876520d93ffffff": 16,
-      "876526ac1ffffff": 33,
-      "876526addffffff": 246,
-      "876526349ffffff": 83,
-      "876526348ffffff": 131,
-      "876526ad8ffffff": 102,
-      "876526acdffffff": 56,
-      "876526accffffff": 36,
-      "876520ca4ffffff": 19,
-      "876520caeffffff": 72,
-      "876520db2ffffff": 14,
-      "876526360ffffff": 130,
-      "87652636cffffff": 140,
-      "876520d8affffff": 50,
-      "876526362ffffff": 35,
-      "876520ca0ffffff": 68,
-      "876520db1ffffff": 7,
-      "876520d99ffffff": 33,
-      "876520d8effffff": 24,
-      "876520d81ffffff": 2,
-      "876526364ffffff": 35,
-      "87652636effffff": 23,
-      "876526ad3ffffff": 10,
-      "876526343ffffff": 5,
-      "876520d9cffffff": 25,
-      "876526acbffffff": 10,
-      "876526adeffffff": 25,
-      "876520ca2ffffff": 25,
-      "87652634bffffff": 0,
-      "876526ac2ffffff": 23,
-      "876520d84ffffff": 55,
-      "876520d9bffffff": 9,
-      "876520cb5ffffff": 25,
-      "876526adbffffff": 11,
-      "876520da3ffffff": 0,
-      "87652636affffff": 12,
-      "87652636bffffff": 3,
-      "876520d91ffffff": 10,
-      "876520ca5ffffff": 4,
-      "876520cf6ffffff": 1,
-      "876520c82ffffff": 0,
-      "876520d9affffff": 0,
-      "876520d9effffff": 3,
-      "876520ca9ffffff": 0,
-      "876520cb6ffffff": 0,
-      "876520cadffffff": 3,
-      "87652634affffff": 6,
-      "87652634dffffff": 4,
-      "876520c94ffffff": 2,
-      "876520cacffffff": 7,
-      "876520d85ffffff": 0,
-      "876520c18ffffff": 2,
-      "876520c12ffffff": 2,
-      "876520c1affffff": 2,
-      "87652636dffffff": 2,
-      "876520c14ffffff": 0,
-      "876520c13ffffff": 1,
-      "876520cb2ffffff": 0,
-      "876520c11ffffff": 0,
-      "876520c80ffffff": 0,
-      "876520c84ffffff": 1,
-      "876520c1dffffff": 0,
-      "876520c15ffffff": 0,
-      "876526ad5ffffff": 0,
-      "876520c85ffffff": 0,
-      "876526ac6ffffff": 0,
-      "876520c16ffffff": 0,
-      "876520d8bffffff": 0,
-      "87652634cffffff": 2,
-      "876526344ffffff": 1,
-      "876520d89ffffff": 0,
-      "876520c1effffff": 0,
-      "876526ad0ffffff": 0,
-      "876526345ffffff": 0,
-      "876520c1cffffff": 0,
-      "876526ac0ffffff": 0,
-      "876520db0ffffff": 0,
-      "876520c95ffffff": 0,
-      "876526340ffffff": 0,
-      "876526369ffffff": 0,
-      "876520d95ffffff": 155,
-      "876520c86ffffff": 0
+    {
+      "key": "876526ac3ffffff",
+      "count": 19
     },
-    "03/08/2010 07:00:05-03/08/2010 07:15:05": {
-      "876526375ffffff": 25,
-      "876526acaffffff": 25,
-      "876526365ffffff": 108,
-      "876526ac3ffffff": 166,
-      "876526368ffffff": 8,
-      "876520cb0ffffff": 77,
-      "876520d82ffffff": 103,
-      "876520db3ffffff": 200,
-      "876526363ffffff": 34,
-      "876526ad1ffffff": 271,
-      "876520ca6ffffff": 106,
-      "876520d9dffffff": 60,
-      "876520d90ffffff": 188,
-      "876520cb4ffffff": 32,
-      "876520ca3ffffff": 117,
-      "876526366ffffff": 75,
-      "876520d86ffffff": 345,
-      "876526ac8ffffff": 178,
-      "876526341ffffff": 288,
-      "87652634effffff": 71,
-      "876520d92ffffff": 96,
-      "876526361ffffff": 131,
-      "876520cb1ffffff": 79,
-      "876520cb3ffffff": 39,
-      "876520ca1ffffff": 74,
-      "876520d98ffffff": 13,
-      "876526adcffffff": 382,
-      "876520d83ffffff": 87,
-      "876520d80ffffff": 176,
-      "876526aceffffff": 288,
-      "876520d96ffffff": 70,
-      "876526ac9ffffff": 252,
-      "876520d94ffffff": 257,
-      "876526ad9ffffff": 7,
-      "876520d93ffffff": 18,
-      "876526ac1ffffff": 44,
-      "876526addffffff": 336,
-      "876526349ffffff": 106,
-      "876526348ffffff": 180,
-      "876526ad8ffffff": 150,
-      "876526acdffffff": 89,
-      "876526accffffff": 46,
-      "876520ca4ffffff": 27,
-      "876520caeffffff": 107,
-      "876520db2ffffff": 21,
-      "876526360ffffff": 176,
-      "87652636cffffff": 183,
-      "876520d8affffff": 74,
-      "876526362ffffff": 54,
-      "876520ca0ffffff": 99,
-      "876520db1ffffff": 8,
-      "876520d99ffffff": 48,
-      "876520d8effffff": 30,
-      "876520d81ffffff": 6,
-      "876526364ffffff": 43,
-      "87652636effffff": 42,
-      "876526ad3ffffff": 16,
-      "876526343ffffff": 10,
-      "876520d9cffffff": 38,
-      "876526acbffffff": 20,
-      "876526adeffffff": 45,
-      "876520ca2ffffff": 36,
-      "87652634bffffff": 1,
-      "876526ac2ffffff": 43,
-      "876520d84ffffff": 80,
-      "876520d9bffffff": 15,
-      "876520cb5ffffff": 37,
-      "876526adbffffff": 17,
-      "876520da3ffffff": 0,
-      "87652636affffff": 19,
-      "87652636bffffff": 6,
-      "876520d91ffffff": 20,
-      "876520ca5ffffff": 6,
-      "876520cf6ffffff": 1,
-      "876520c82ffffff": 0,
-      "876520d9affffff": 0,
-      "876520d9effffff": 5,
-      "876520ca9ffffff": 2,
-      "876520cb6ffffff": 1,
-      "876520cadffffff": 4,
-      "87652634affffff": 10,
-      "87652634dffffff": 4,
-      "876520c94ffffff": 5,
-      "876520cacffffff": 14,
-      "876520d85ffffff": 0,
-      "876520c18ffffff": 2,
-      "876520c12ffffff": 2,
-      "876520c1affffff": 4,
-      "87652636dffffff": 3,
-      "876520c14ffffff": 2,
-      "876520c13ffffff": 2,
-      "876520cb2ffffff": 0,
-      "876520c11ffffff": 0,
-      "876520c80ffffff": 1,
-      "876520c84ffffff": 2,
-      "876520c1dffffff": 0,
-      "876520c15ffffff": 1,
-      "876526ad5ffffff": 1,
-      "876520c85ffffff": 0,
-      "876526ac6ffffff": 0,
-      "876520c16ffffff": 0,
-      "876520d8bffffff": 0,
-      "87652634cffffff": 3,
-      "876526344ffffff": 1,
-      "876520d89ffffff": 0,
-      "876520c1effffff": 0,
-      "876526ad0ffffff": 0,
-      "876526345ffffff": 0,
-      "876520c1cffffff": 0,
-      "876526ac0ffffff": 0,
-      "876520db0ffffff": 0,
-      "876520c95ffffff": 0,
-      "876526340ffffff": 0,
-      "876526369ffffff": 0,
-      "876520d95ffffff": 247,
-      "876520c86ffffff": 0
+    {
+      "key": "876526368ffffff",
+      "count": 2
     },
-    "03/08/2010 07:15:05-03/08/2010 07:30:05": {
-      "876526375ffffff": 43,
-      "876526acaffffff": 41,
-      "876526365ffffff": 171,
-      "876526ac3ffffff": 225,
-      "876526368ffffff": 13,
-      "876520cb0ffffff": 106,
-      "876520d82ffffff": 179,
-      "876520db3ffffff": 257,
-      "876526363ffffff": 42,
-      "876526ad1ffffff": 328,
-      "876520ca6ffffff": 150,
-      "876520d9dffffff": 87,
-      "876520d90ffffff": 303,
-      "876520cb4ffffff": 40,
-      "876520ca3ffffff": 166,
-      "876526366ffffff": 112,
-      "876520d86ffffff": 509,
-      "876526ac8ffffff": 240,
-      "876526341ffffff": 402,
-      "87652634effffff": 106,
-      "876520d92ffffff": 145,
-      "876526361ffffff": 170,
-      "876520cb1ffffff": 109,
-      "876520cb3ffffff": 58,
-      "876520ca1ffffff": 125,
-      "876520d98ffffff": 16,
-      "876526adcffffff": 502,
-      "876520d83ffffff": 130,
-      "876520d80ffffff": 286,
-      "876526aceffffff": 400,
-      "876520d96ffffff": 107,
-      "876526ac9ffffff": 365,
-      "876520d94ffffff": 339,
-      "876526ad9ffffff": 8,
-      "876520d93ffffff": 31,
-      "876526ac1ffffff": 62,
-      "876526addffffff": 470,
-      "876526349ffffff": 143,
-      "876526348ffffff": 261,
-      "876526ad8ffffff": 225,
-      "876526acdffffff": 144,
-      "876526accffffff": 70,
-      "876520ca4ffffff": 51,
-      "876520caeffffff": 160,
-      "876520db2ffffff": 37,
-      "876526360ffffff": 245,
-      "87652636cffffff": 255,
-      "876520d8affffff": 121,
-      "876526362ffffff": 86,
-      "876520ca0ffffff": 141,
-      "876520db1ffffff": 11,
-      "876520d99ffffff": 70,
-      "876520d8effffff": 33,
-      "876520d81ffffff": 13,
-      "876526364ffffff": 55,
-      "87652636effffff": 56,
-      "876526ad3ffffff": 21,
-      "876526343ffffff": 10,
-      "876520d9cffffff": 57,
-      "876526acbffffff": 25,
-      "876526adeffffff": 60,
-      "876520ca2ffffff": 47,
-      "87652634bffffff": 3,
-      "876526ac2ffffff": 55,
-      "876520d84ffffff": 108,
-      "876520d9bffffff": 26,
-      "876520cb5ffffff": 51,
-      "876526adbffffff": 26,
-      "876520da3ffffff": 0,
-      "87652636affffff": 28,
-      "87652636bffffff": 8,
-      "876520d91ffffff": 33,
-      "876520ca5ffffff": 10,
-      "876520cf6ffffff": 1,
-      "876520c82ffffff": 1,
-      "876520d9affffff": 2,
-      "876520d9effffff": 7,
-      "876520ca9ffffff": 3,
-      "876520cb6ffffff": 1,
-      "876520cadffffff": 5,
-      "87652634affffff": 15,
-      "87652634dffffff": 6,
-      "876520c94ffffff": 5,
-      "876520cacffffff": 23,
-      "876520d85ffffff": 1,
-      "876520c18ffffff": 2,
-      "876520c12ffffff": 2,
-      "876520c1affffff": 4,
-      "87652636dffffff": 3,
-      "876520c14ffffff": 2,
-      "876520c13ffffff": 3,
-      "876520cb2ffffff": 0,
-      "876520c11ffffff": 1,
-      "876520c80ffffff": 5,
-      "876520c84ffffff": 2,
-      "876520c1dffffff": 0,
-      "876520c15ffffff": 1,
-      "876526ad5ffffff": 1,
-      "876520c85ffffff": 1,
-      "876526ac6ffffff": 2,
-      "876520c16ffffff": 0,
-      "876520d8bffffff": 0,
-      "87652634cffffff": 4,
-      "876526344ffffff": 1,
-      "876520d89ffffff": 0,
-      "876520c1effffff": 1,
-      "876526ad0ffffff": 0,
-      "876526345ffffff": 1,
-      "876520c1cffffff": 0,
-      "876526ac0ffffff": 1,
-      "876520db0ffffff": 0,
-      "876520c95ffffff": 1,
-      "876526340ffffff": 0,
-      "876526369ffffff": 0,
-      "876520d95ffffff": 343,
-      "876520c86ffffff": 0
+    {
+      "key": "876520cb0ffffff",
+      "count": 32
     },
-    "03/08/2010 07:30:05-03/08/2010 07:45:05": {
-      "876526375ffffff": 63,
-      "876526acaffffff": 54,
-      "876526365ffffff": 224,
-      "876526ac3ffffff": 278,
-      "876526368ffffff": 18,
-      "876520cb0ffffff": 140,
-      "876520d82ffffff": 257,
-      "876520db3ffffff": 331,
-      "876526363ffffff": 48,
-      "876526ad1ffffff": 386,
-      "876520ca6ffffff": 206,
-      "876520d9dffffff": 128,
-      "876520d90ffffff": 411,
-      "876520cb4ffffff": 51,
-      "876520ca3ffffff": 243,
-      "876526366ffffff": 156,
-      "876520d86ffffff": 687,
-      "876526ac8ffffff": 332,
-      "876526341ffffff": 529,
-      "87652634effffff": 139,
-      "876520d92ffffff": 200,
-      "876526361ffffff": 236,
-      "876520cb1ffffff": 153,
-      "876520cb3ffffff": 81,
-      "876520ca1ffffff": 176,
-      "876520d98ffffff": 20,
-      "876526adcffffff": 623,
-      "876520d83ffffff": 170,
-      "876520d80ffffff": 370,
-      "876526aceffffff": 517,
-      "876520d96ffffff": 142,
-      "876526ac9ffffff": 464,
-      "876520d94ffffff": 420,
-      "876526ad9ffffff": 12,
-      "876520d93ffffff": 42,
-      "876526ac1ffffff": 81,
-      "876526addffffff": 623,
-      "876526349ffffff": 190,
-      "876526348ffffff": 372,
-      "876526ad8ffffff": 285,
-      "876526acdffffff": 189,
-      "876526accffffff": 100,
-      "876520ca4ffffff": 68,
-      "876520caeffffff": 219,
-      "876520db2ffffff": 58,
-      "876526360ffffff": 357,
-      "87652636cffffff": 341,
-      "876520d8affffff": 158,
-      "876526362ffffff": 126,
-      "876520ca0ffffff": 195,
-      "876520db1ffffff": 16,
-      "876520d99ffffff": 96,
-      "876520d8effffff": 46,
-      "876520d81ffffff": 22,
-      "876526364ffffff": 75,
-      "87652636effffff": 79,
-      "876526ad3ffffff": 28,
-      "876526343ffffff": 10,
-      "876520d9cffffff": 93,
-      "876526acbffffff": 36,
-      "876526adeffffff": 71,
-      "876520ca2ffffff": 55,
-      "87652634bffffff": 4,
-      "876526ac2ffffff": 63,
-      "876520d84ffffff": 129,
-      "876520d9bffffff": 32,
-      "876520cb5ffffff": 74,
-      "876526adbffffff": 47,
-      "876520da3ffffff": 1,
-      "87652636affffff": 41,
-      "87652636bffffff": 10,
-      "876520d91ffffff": 42,
-      "876520ca5ffffff": 14,
-      "876520cf6ffffff": 1,
-      "876520c82ffffff": 1,
-      "876520d9affffff": 2,
-      "876520d9effffff": 11,
-      "876520ca9ffffff": 3,
-      "876520cb6ffffff": 1,
-      "876520cadffffff": 7,
-      "87652634affffff": 20,
-      "87652634dffffff": 7,
-      "876520c94ffffff": 8,
-      "876520cacffffff": 28,
-      "876520d85ffffff": 1,
-      "876520c18ffffff": 3,
-      "876520c12ffffff": 3,
-      "876520c1affffff": 5,
-      "87652636dffffff": 5,
-      "876520c14ffffff": 2,
-      "876520c13ffffff": 6,
-      "876520cb2ffffff": 0,
-      "876520c11ffffff": 1,
-      "876520c80ffffff": 6,
-      "876520c84ffffff": 3,
-      "876520c1dffffff": 0,
-      "876520c15ffffff": 1,
-      "876526ad5ffffff": 1,
-      "876520c85ffffff": 1,
-      "876526ac6ffffff": 2,
-      "876520c16ffffff": 0,
-      "876520d8bffffff": 1,
-      "87652634cffffff": 4,
-      "876526344ffffff": 1,
-      "876520d89ffffff": 0,
-      "876520c1effffff": 1,
-      "876526ad0ffffff": 0,
-      "876526345ffffff": 1,
-      "876520c1cffffff": 0,
-      "876526ac0ffffff": 1,
-      "876520db0ffffff": 0,
-      "876520c95ffffff": 1,
-      "876526340ffffff": 1,
-      "876526369ffffff": 1,
-      "876520d95ffffff": 499,
-      "876520c86ffffff": 0
+    {
+      "key": "876520d82ffffff",
+      "count": 18
     },
-    "03/08/2010 07:45:05-03/08/2010 08:00:05": {
-      "876526375ffffff": 93,
-      "876526acaffffff": 67,
-      "876526365ffffff": 294,
-      "876526ac3ffffff": 334,
-      "876526368ffffff": 25,
-      "876520cb0ffffff": 171,
-      "876520d82ffffff": 343,
-      "876520db3ffffff": 427,
-      "876526363ffffff": 62,
-      "876526ad1ffffff": 476,
-      "876520ca6ffffff": 278,
-      "876520d9dffffff": 178,
-      "876520d90ffffff": 540,
-      "876520cb4ffffff": 61,
-      "876520ca3ffffff": 320,
-      "876526366ffffff": 218,
-      "876520d86ffffff": 942,
-      "876526ac8ffffff": 423,
-      "876526341ffffff": 651,
-      "87652634effffff": 178,
-      "876520d92ffffff": 270,
-      "876526361ffffff": 313,
-      "876520cb1ffffff": 204,
-      "876520cb3ffffff": 123,
-      "876520ca1ffffff": 236,
-      "876520d98ffffff": 30,
-      "876526adcffffff": 761,
-      "876520d83ffffff": 228,
-      "876520d80ffffff": 467,
-      "876526aceffffff": 655,
-      "876520d96ffffff": 169,
-      "876526ac9ffffff": 557,
-      "876520d94ffffff": 509,
-      "876526ad9ffffff": 13,
-      "876520d93ffffff": 63,
-      "876526ac1ffffff": 105,
-      "876526addffffff": 787,
-      "876526349ffffff": 240,
-      "876526348ffffff": 480,
-      "876526ad8ffffff": 361,
-      "876526acdffffff": 240,
-      "876526accffffff": 142,
-      "876520ca4ffffff": 87,
-      "876520caeffffff": 295,
-      "876520db2ffffff": 79,
-      "876526360ffffff": 476,
-      "87652636cffffff": 440,
-      "876520d8affffff": 199,
-      "876526362ffffff": 167,
-      "876520ca0ffffff": 246,
-      "876520db1ffffff": 23,
-      "876520d99ffffff": 130,
-      "876520d8effffff": 58,
-      "876520d81ffffff": 27,
-      "876526364ffffff": 99,
-      "87652636effffff": 98,
-      "876526ad3ffffff": 33,
-      "876526343ffffff": 12,
-      "876520d9cffffff": 116,
-      "876526acbffffff": 46,
-      "876526adeffffff": 98,
-      "876520ca2ffffff": 79,
-      "87652634bffffff": 5,
-      "876526ac2ffffff": 68,
-      "876520d84ffffff": 153,
-      "876520d9bffffff": 43,
-      "876520cb5ffffff": 99,
-      "876526adbffffff": 58,
-      "876520da3ffffff": 1,
-      "87652636affffff": 51,
-      "87652636bffffff": 12,
-      "876520d91ffffff": 56,
-      "876520ca5ffffff": 17,
-      "876520cf6ffffff": 1,
-      "876520c82ffffff": 1,
-      "876520d9affffff": 4,
-      "876520d9effffff": 14,
-      "876520ca9ffffff": 3,
-      "876520cb6ffffff": 1,
-      "876520cadffffff": 9,
-      "87652634affffff": 29,
-      "87652634dffffff": 12,
-      "876520c94ffffff": 12,
-      "876520cacffffff": 40,
-      "876520d85ffffff": 1,
-      "876520c18ffffff": 3,
-      "876520c12ffffff": 3,
-      "876520c1affffff": 5,
-      "87652636dffffff": 7,
-      "876520c14ffffff": 2,
-      "876520c13ffffff": 7,
-      "876520cb2ffffff": 1,
-      "876520c11ffffff": 1,
-      "876520c80ffffff": 6,
-      "876520c84ffffff": 7,
-      "876520c1dffffff": 0,
-      "876520c15ffffff": 1,
-      "876526ad5ffffff": 2,
-      "876520c85ffffff": 2,
-      "876526ac6ffffff": 2,
-      "876520c16ffffff": 0,
-      "876520d8bffffff": 2,
-      "87652634cffffff": 6,
-      "876526344ffffff": 1,
-      "876520d89ffffff": 0,
-      "876520c1effffff": 2,
-      "876526ad0ffffff": 0,
-      "876526345ffffff": 1,
-      "876520c1cffffff": 0,
-      "876526ac0ffffff": 1,
-      "876520db0ffffff": 0,
-      "876520c95ffffff": 1,
-      "876526340ffffff": 1,
-      "876526369ffffff": 1,
-      "876520d95ffffff": 636,
-      "876520c86ffffff": 0
+    {
+      "key": "876520db3ffffff",
+      "count": 47
     },
-    "03/08/2010 08:00:05-03/08/2010 08:15:05": {
-      "876526375ffffff": 113,
-      "876526acaffffff": 95,
-      "876526365ffffff": 366,
-      "876526ac3ffffff": 402,
-      "876526368ffffff": 30,
-      "876520cb0ffffff": 185,
-      "876520d82ffffff": 429,
-      "876520db3ffffff": 542,
-      "876526363ffffff": 70,
-      "876526ad1ffffff": 538,
-      "876520ca6ffffff": 376,
-      "876520d9dffffff": 237,
-      "876520d90ffffff": 654,
-      "876520cb4ffffff": 64,
-      "876520ca3ffffff": 366,
-      "876526366ffffff": 264,
-      "876520d86ffffff": 1224,
-      "876526ac8ffffff": 539,
-      "876526341ffffff": 777,
-      "87652634effffff": 228,
-      "876520d92ffffff": 339,
-      "876526361ffffff": 411,
-      "876520cb1ffffff": 242,
-      "876520cb3ffffff": 154,
-      "876520ca1ffffff": 295,
-      "876520d98ffffff": 34,
-      "876526adcffffff": 924,
-      "876520d83ffffff": 276,
-      "876520d80ffffff": 555,
-      "876526aceffffff": 807,
-      "876520d96ffffff": 198,
-      "876526ac9ffffff": 661,
-      "876520d94ffffff": 617,
-      "876526ad9ffffff": 17,
-      "876520d93ffffff": 88,
-      "876526ac1ffffff": 131,
-      "876526addffffff": 971,
-      "876526349ffffff": 289,
-      "876526348ffffff": 604,
-      "876526ad8ffffff": 464,
-      "876526acdffffff": 304,
-      "876526accffffff": 179,
-      "876520ca4ffffff": 116,
-      "876520caeffffff": 356,
-      "876520db2ffffff": 105,
-      "876526360ffffff": 586,
-      "87652636cffffff": 541,
-      "876520d8affffff": 249,
-      "876526362ffffff": 200,
-      "876520ca0ffffff": 295,
-      "876520db1ffffff": 25,
-      "876520d99ffffff": 150,
-      "876520d8effffff": 82,
-      "876520d81ffffff": 33,
-      "876526364ffffff": 123,
-      "87652636effffff": 119,
-      "876526ad3ffffff": 37,
-      "876526343ffffff": 13,
-      "876520d9cffffff": 138,
-      "876526acbffffff": 58,
-      "876526adeffffff": 117,
-      "876520ca2ffffff": 101,
-      "87652634bffffff": 5,
-      "876526ac2ffffff": 71,
-      "876520d84ffffff": 177,
-      "876520d9bffffff": 57,
-      "876520cb5ffffff": 118,
-      "876526adbffffff": 65,
-      "876520da3ffffff": 1,
-      "87652636affffff": 60,
-      "87652636bffffff": 13,
-      "876520d91ffffff": 71,
-      "876520ca5ffffff": 18,
-      "876520cf6ffffff": 1,
-      "876520c82ffffff": 3,
-      "876520d9affffff": 4,
-      "876520d9effffff": 19,
-      "876520ca9ffffff": 5,
-      "876520cb6ffffff": 2,
-      "876520cadffffff": 12,
-      "87652634affffff": 36,
-      "87652634dffffff": 14,
-      "876520c94ffffff": 16,
-      "876520cacffffff": 75,
-      "876520d85ffffff": 1,
-      "876520c18ffffff": 4,
-      "876520c12ffffff": 3,
-      "876520c1affffff": 6,
-      "87652636dffffff": 7,
-      "876520c14ffffff": 3,
-      "876520c13ffffff": 9,
-      "876520cb2ffffff": 3,
-      "876520c11ffffff": 1,
-      "876520c80ffffff": 7,
-      "876520c84ffffff": 7,
-      "876520c1dffffff": 0,
-      "876520c15ffffff": 1,
-      "876526ad5ffffff": 2,
-      "876520c85ffffff": 2,
-      "876526ac6ffffff": 3,
-      "876520c16ffffff": 0,
-      "876520d8bffffff": 3,
-      "87652634cffffff": 8,
-      "876526344ffffff": 1,
-      "876520d89ffffff": 0,
-      "876520c1effffff": 3,
-      "876526ad0ffffff": 0,
-      "876526345ffffff": 1,
-      "876520c1cffffff": 0,
-      "876526ac0ffffff": 1,
-      "876520db0ffffff": 0,
-      "876520c95ffffff": 1,
-      "876526340ffffff": 1,
-      "876526369ffffff": 1,
-      "876520d95ffffff": 793,
-      "876520c86ffffff": 0
+    {
+      "key": "876526363ffffff",
+      "count": 4
     },
-    "03/08/2010 08:15:05-03/08/2010 08:30:05": {
-      "876526375ffffff": 135,
-      "876526acaffffff": 123,
-      "876526365ffffff": 452,
-      "876526ac3ffffff": 479,
-      "876526368ffffff": 37,
-      "876520cb0ffffff": 203,
-      "876520d82ffffff": 543,
-      "876520db3ffffff": 674,
-      "876526363ffffff": 86,
-      "876526ad1ffffff": 608,
-      "876520ca6ffffff": 477,
-      "876520d9dffffff": 298,
-      "876520d90ffffff": 805,
-      "876520cb4ffffff": 71,
-      "876520ca3ffffff": 425,
-      "876526366ffffff": 317,
-      "876520d86ffffff": 1561,
-      "876526ac8ffffff": 648,
-      "876526341ffffff": 931,
-      "87652634effffff": 288,
-      "876520d92ffffff": 406,
-      "876526361ffffff": 496,
-      "876520cb1ffffff": 282,
-      "876520cb3ffffff": 178,
-      "876520ca1ffffff": 363,
-      "876520d98ffffff": 44,
-      "876526adcffffff": 1069,
-      "876520d83ffffff": 344,
-      "876520d80ffffff": 666,
-      "876526aceffffff": 990,
-      "876520d96ffffff": 243,
-      "876526ac9ffffff": 792,
-      "876520d94ffffff": 732,
-      "876526ad9ffffff": 24,
-      "876520d93ffffff": 108,
-      "876526ac1ffffff": 169,
-      "876526addffffff": 1188,
-      "876526349ffffff": 350,
-      "876526348ffffff": 734,
-      "876526ad8ffffff": 562,
-      "876526acdffffff": 346,
-      "876526accffffff": 214,
-      "876520ca4ffffff": 147,
-      "876520caeffffff": 424,
-      "876520db2ffffff": 143,
-      "876526360ffffff": 702,
-      "87652636cffffff": 644,
-      "876520d8affffff": 301,
-      "876526362ffffff": 232,
-      "876520ca0ffffff": 371,
-      "876520db1ffffff": 40,
-      "876520d99ffffff": 186,
-      "876520d8effffff": 103,
-      "876520d81ffffff": 48,
-      "876526364ffffff": 152,
-      "87652636effffff": 144,
-      "876526ad3ffffff": 47,
-      "876526343ffffff": 18,
-      "876520d9cffffff": 156,
-      "876526acbffffff": 74,
-      "876526adeffffff": 137,
-      "876520ca2ffffff": 107,
-      "87652634bffffff": 6,
-      "876526ac2ffffff": 73,
-      "876520d84ffffff": 207,
-      "876520d9bffffff": 71,
-      "876520cb5ffffff": 133,
-      "876526adbffffff": 83,
-      "876520da3ffffff": 1,
-      "87652636affffff": 75,
-      "87652636bffffff": 13,
-      "876520d91ffffff": 94,
-      "876520ca5ffffff": 20,
-      "876520cf6ffffff": 1,
-      "876520c82ffffff": 3,
-      "876520d9affffff": 4,
-      "876520d9effffff": 23,
-      "876520ca9ffffff": 7,
-      "876520cb6ffffff": 2,
-      "876520cadffffff": 14,
-      "87652634affffff": 46,
-      "87652634dffffff": 20,
-      "876520c94ffffff": 23,
-      "876520cacffffff": 98,
-      "876520d85ffffff": 2,
-      "876520c18ffffff": 5,
-      "876520c12ffffff": 4,
-      "876520c1affffff": 7,
-      "87652636dffffff": 8,
-      "876520c14ffffff": 4,
-      "876520c13ffffff": 11,
-      "876520cb2ffffff": 3,
-      "876520c11ffffff": 1,
-      "876520c80ffffff": 7,
-      "876520c84ffffff": 8,
-      "876520c1dffffff": 1,
-      "876520c15ffffff": 1,
-      "876526ad5ffffff": 2,
-      "876520c85ffffff": 2,
-      "876526ac6ffffff": 4,
-      "876520c16ffffff": 0,
-      "876520d8bffffff": 3,
-      "87652634cffffff": 8,
-      "876526344ffffff": 1,
-      "876520d89ffffff": 0,
-      "876520c1effffff": 3,
-      "876526ad0ffffff": 0,
-      "876526345ffffff": 1,
-      "876520c1cffffff": 0,
-      "876526ac0ffffff": 1,
-      "876520db0ffffff": 2,
-      "876520c95ffffff": 1,
-      "876526340ffffff": 1,
-      "876526369ffffff": 1,
-      "876520d95ffffff": 1038,
-      "876520c86ffffff": 0
+    {
+      "key": "876526ad1ffffff",
+      "count": 37
     },
-    "03/08/2010 08:30:05-03/08/2010 08:45:05": {
-      "876526375ffffff": 158,
-      "876526acaffffff": 140,
-      "876526365ffffff": 500,
-      "876526ac3ffffff": 591,
-      "876526368ffffff": 41,
-      "876520cb0ffffff": 213,
-      "876520d82ffffff": 659,
-      "876520db3ffffff": 839,
-      "876526363ffffff": 97,
-      "876526ad1ffffff": 680,
-      "876520ca6ffffff": 551,
-      "876520d9dffffff": 369,
-      "876520d90ffffff": 962,
-      "876520cb4ffffff": 79,
-      "876520ca3ffffff": 474,
-      "876526366ffffff": 349,
-      "876520d86ffffff": 1980,
-      "876526ac8ffffff": 756,
-      "876526341ffffff": 1060,
-      "87652634effffff": 335,
-      "876520d92ffffff": 480,
-      "876526361ffffff": 557,
-      "876520cb1ffffff": 322,
-      "876520cb3ffffff": 204,
-      "876520ca1ffffff": 443,
-      "876520d98ffffff": 59,
-      "876526adcffffff": 1272,
-      "876520d83ffffff": 421,
-      "876520d80ffffff": 811,
-      "876526aceffffff": 1164,
-      "876520d96ffffff": 289,
-      "876526ac9ffffff": 931,
-      "876520d94ffffff": 863,
-      "876526ad9ffffff": 29,
-      "876520d93ffffff": 129,
-      "876526ac1ffffff": 199,
-      "876526addffffff": 1369,
-      "876526349ffffff": 407,
-      "876526348ffffff": 847,
-      "876526ad8ffffff": 646,
-      "876526acdffffff": 388,
-      "876526accffffff": 248,
-      "876520ca4ffffff": 186,
-      "876520caeffffff": 492,
-      "876520db2ffffff": 176,
-      "876526360ffffff": 774,
-      "87652636cffffff": 740,
-      "876520d8affffff": 358,
-      "876526362ffffff": 266,
-      "876520ca0ffffff": 431,
-      "876520db1ffffff": 56,
-      "876520d99ffffff": 215,
-      "876520d8effffff": 121,
-      "876520d81ffffff": 75,
-      "876526364ffffff": 176,
-      "87652636effffff": 169,
-      "876526ad3ffffff": 61,
-      "876526343ffffff": 22,
-      "876520d9cffffff": 194,
-      "876526acbffffff": 91,
-      "876526adeffffff": 162,
-      "876520ca2ffffff": 115,
-      "87652634bffffff": 8,
-      "876526ac2ffffff": 79,
-      "876520d84ffffff": 257,
-      "876520d9bffffff": 82,
-      "876520cb5ffffff": 141,
-      "876526adbffffff": 94,
-      "876520da3ffffff": 2,
-      "87652636affffff": 89,
-      "87652636bffffff": 13,
-      "876520d91ffffff": 117,
-      "876520ca5ffffff": 21,
-      "876520cf6ffffff": 1,
-      "876520c82ffffff": 3,
-      "876520d9affffff": 4,
-      "876520d9effffff": 24,
-      "876520ca9ffffff": 8,
-      "876520cb6ffffff": 2,
-      "876520cadffffff": 15,
-      "87652634affffff": 53,
-      "87652634dffffff": 22,
-      "876520c94ffffff": 29,
-      "876520cacffffff": 129,
-      "876520d85ffffff": 3,
-      "876520c18ffffff": 5,
-      "876520c12ffffff": 6,
-      "876520c1affffff": 8,
-      "87652636dffffff": 10,
-      "876520c14ffffff": 4,
-      "876520c13ffffff": 11,
-      "876520cb2ffffff": 3,
-      "876520c11ffffff": 1,
-      "876520c80ffffff": 7,
-      "876520c84ffffff": 8,
-      "876520c1dffffff": 1,
-      "876520c15ffffff": 1,
-      "876526ad5ffffff": 2,
-      "876520c85ffffff": 2,
-      "876526ac6ffffff": 5,
-      "876520c16ffffff": 0,
-      "876520d8bffffff": 3,
-      "87652634cffffff": 8,
-      "876526344ffffff": 2,
-      "876520d89ffffff": 2,
-      "876520c1effffff": 4,
-      "876526ad0ffffff": 0,
-      "876526345ffffff": 1,
-      "876520c1cffffff": 1,
-      "876526ac0ffffff": 1,
-      "876520db0ffffff": 2,
-      "876520c95ffffff": 1,
-      "876526340ffffff": 1,
-      "876526369ffffff": 1,
-      "876520d95ffffff": 1313,
-      "876520c86ffffff": 0
+    {
+      "key": "876520ca6ffffff",
+      "count": 30
     },
-    "03/08/2010 08:45:05-03/08/2010 09:00:05": {
-      "876526375ffffff": 170,
-      "876526acaffffff": 150,
-      "876526365ffffff": 562,
-      "876526ac3ffffff": 708,
-      "876526368ffffff": 46,
-      "876520cb0ffffff": 222,
-      "876520d82ffffff": 798,
-      "876520db3ffffff": 1075,
-      "876526363ffffff": 105,
-      "876526ad1ffffff": 744,
-      "876520ca6ffffff": 636,
-      "876520d9dffffff": 450,
-      "876520d90ffffff": 1135,
-      "876520cb4ffffff": 82,
-      "876520ca3ffffff": 518,
-      "876526366ffffff": 376,
-      "876520d86ffffff": 2421,
-      "876526ac8ffffff": 867,
-      "876526341ffffff": 1157,
-      "87652634effffff": 374,
-      "876520d92ffffff": 531,
-      "876526361ffffff": 618,
-      "876520cb1ffffff": 345,
-      "876520cb3ffffff": 216,
-      "876520ca1ffffff": 525,
-      "876520d98ffffff": 76,
-      "876526adcffffff": 1438,
-      "876520d83ffffff": 522,
-      "876520d80ffffff": 952,
-      "876526aceffffff": 1307,
-      "876520d96ffffff": 328,
-      "876526ac9ffffff": 1074,
-      "876520d94ffffff": 1014,
-      "876526ad9ffffff": 31,
-      "876520d93ffffff": 147,
-      "876526ac1ffffff": 225,
-      "876526addffffff": 1543,
-      "876526349ffffff": 468,
-      "876526348ffffff": 942,
-      "876526ad8ffffff": 737,
-      "876526acdffffff": 445,
-      "876526accffffff": 277,
-      "876520ca4ffffff": 224,
-      "876520caeffffff": 553,
-      "876520db2ffffff": 208,
-      "876526360ffffff": 839,
-      "87652636cffffff": 822,
-      "876520d8affffff": 425,
-      "876526362ffffff": 287,
-      "876520ca0ffffff": 484,
-      "876520db1ffffff": 81,
-      "876520d99ffffff": 243,
-      "876520d8effffff": 145,
-      "876520d81ffffff": 96,
-      "876526364ffffff": 190,
-      "87652636effffff": 205,
-      "876526ad3ffffff": 68,
-      "876526343ffffff": 23,
-      "876520d9cffffff": 228,
-      "876526acbffffff": 118,
-      "876526adeffffff": 178,
-      "876520ca2ffffff": 121,
-      "87652634bffffff": 8,
-      "876526ac2ffffff": 84,
-      "876520d84ffffff": 304,
-      "876520d9bffffff": 99,
-      "876520cb5ffffff": 147,
-      "876526adbffffff": 109,
-      "876520da3ffffff": 2,
-      "87652636affffff": 99,
-      "87652636bffffff": 18,
-      "876520d91ffffff": 143,
-      "876520ca5ffffff": 22,
-      "876520cf6ffffff": 1,
-      "876520c82ffffff": 3,
-      "876520d9affffff": 4,
-      "876520d9effffff": 25,
-      "876520ca9ffffff": 10,
-      "876520cb6ffffff": 2,
-      "876520cadffffff": 16,
-      "87652634affffff": 59,
-      "87652634dffffff": 24,
-      "876520c94ffffff": 37,
-      "876520cacffffff": 162,
-      "876520d85ffffff": 3,
-      "876520c18ffffff": 7,
-      "876520c12ffffff": 7,
-      "876520c1affffff": 8,
-      "87652636dffffff": 11,
-      "876520c14ffffff": 4,
-      "876520c13ffffff": 16,
-      "876520cb2ffffff": 3,
-      "876520c11ffffff": 1,
-      "876520c80ffffff": 7,
-      "876520c84ffffff": 8,
-      "876520c1dffffff": 1,
-      "876520c15ffffff": 1,
-      "876526ad5ffffff": 2,
-      "876520c85ffffff": 2,
-      "876526ac6ffffff": 5,
-      "876520c16ffffff": 0,
-      "876520d8bffffff": 4,
-      "87652634cffffff": 8,
-      "876526344ffffff": 2,
-      "876520d89ffffff": 2,
-      "876520c1effffff": 6,
-      "876526ad0ffffff": 0,
-      "876526345ffffff": 1,
-      "876520c1cffffff": 1,
-      "876526ac0ffffff": 1,
-      "876520db0ffffff": 2,
-      "876520c95ffffff": 1,
-      "876526340ffffff": 1,
-      "876526369ffffff": 1,
-      "876520d95ffffff": 1621,
-      "876520c86ffffff": 0
+    {
+      "key": "876520d9dffffff",
+      "count": 8
     },
-    "03/08/2010 09:00:05-03/08/2010 09:15:05": {
-      "876526375ffffff": 178,
-      "876526acaffffff": 163,
-      "876526365ffffff": 631,
-      "876526ac3ffffff": 805,
-      "876526368ffffff": 62,
-      "876520cb0ffffff": 231,
-      "876520d82ffffff": 985,
-      "876520db3ffffff": 1312,
-      "876526363ffffff": 113,
-      "876526ad1ffffff": 791,
-      "876520ca6ffffff": 723,
-      "876520d9dffffff": 526,
-      "876520d90ffffff": 1294,
-      "876520cb4ffffff": 85,
-      "876520ca3ffffff": 576,
-      "876526366ffffff": 393,
-      "876520d86ffffff": 2889,
-      "876526ac8ffffff": 969,
-      "876526341ffffff": 1233,
-      "87652634effffff": 411,
-      "876520d92ffffff": 578,
-      "876526361ffffff": 672,
-      "876520cb1ffffff": 360,
-      "876520cb3ffffff": 231,
-      "876520ca1ffffff": 599,
-      "876520d98ffffff": 89,
-      "876526adcffffff": 1597,
-      "876520d83ffffff": 611,
-      "876520d80ffffff": 1124,
-      "876526aceffffff": 1435,
-      "876520d96ffffff": 384,
-      "876526ac9ffffff": 1244,
-      "876520d94ffffff": 1200,
-      "876526ad9ffffff": 35,
-      "876520d93ffffff": 168,
-      "876526ac1ffffff": 252,
-      "876526addffffff": 1740,
-      "876526349ffffff": 526,
-      "876526348ffffff": 1044,
-      "876526ad8ffffff": 824,
-      "876526acdffffff": 508,
-      "876526accffffff": 306,
-      "876520ca4ffffff": 256,
-      "876520caeffffff": 615,
-      "876520db2ffffff": 255,
-      "876526360ffffff": 888,
-      "87652636cffffff": 911,
-      "876520d8affffff": 485,
-      "876526362ffffff": 303,
-      "876520ca0ffffff": 555,
-      "876520db1ffffff": 115,
-      "876520d99ffffff": 279,
-      "876520d8effffff": 175,
-      "876520d81ffffff": 117,
-      "876526364ffffff": 207,
-      "87652636effffff": 230,
-      "876526ad3ffffff": 69,
-      "876526343ffffff": 26,
-      "876520d9cffffff": 261,
-      "876526acbffffff": 136,
-      "876526adeffffff": 198,
-      "876520ca2ffffff": 133,
-      "87652634bffffff": 9,
-      "876526ac2ffffff": 89,
-      "876520d84ffffff": 378,
-      "876520d9bffffff": 116,
-      "876520cb5ffffff": 154,
-      "876526adbffffff": 123,
-      "876520da3ffffff": 3,
-      "87652636affffff": 109,
-      "87652636bffffff": 23,
-      "876520d91ffffff": 169,
-      "876520ca5ffffff": 26,
-      "876520cf6ffffff": 1,
-      "876520c82ffffff": 3,
-      "876520d9affffff": 6,
-      "876520d9effffff": 25,
-      "876520ca9ffffff": 15,
-      "876520cb6ffffff": 3,
-      "876520cadffffff": 21,
-      "87652634affffff": 66,
-      "87652634dffffff": 25,
-      "876520c94ffffff": 48,
-      "876520cacffffff": 190,
-      "876520d85ffffff": 3,
-      "876520c18ffffff": 7,
-      "876520c12ffffff": 7,
-      "876520c1affffff": 10,
-      "87652636dffffff": 11,
-      "876520c14ffffff": 4,
-      "876520c13ffffff": 17,
-      "876520cb2ffffff": 3,
-      "876520c11ffffff": 1,
-      "876520c80ffffff": 7,
-      "876520c84ffffff": 8,
-      "876520c1dffffff": 1,
-      "876520c15ffffff": 1,
-      "876526ad5ffffff": 2,
-      "876520c85ffffff": 2,
-      "876526ac6ffffff": 6,
-      "876520c16ffffff": 0,
-      "876520d8bffffff": 5,
-      "87652634cffffff": 9,
-      "876526344ffffff": 2,
-      "876520d89ffffff": 2,
-      "876520c1effffff": 7,
-      "876526ad0ffffff": 0,
-      "876526345ffffff": 2,
-      "876520c1cffffff": 1,
-      "876526ac0ffffff": 1,
-      "876520db0ffffff": 2,
-      "876520c95ffffff": 1,
-      "876526340ffffff": 1,
-      "876526369ffffff": 1,
-      "876520d95ffffff": 1985,
-      "876520c86ffffff": 0
+    {
+      "key": "876520d90ffffff",
+      "count": 37
     },
-    "03/08/2010 09:15:05-03/08/2010 09:30:05": {
-      "876526375ffffff": 185,
-      "876526acaffffff": 171,
-      "876526365ffffff": 702,
-      "876526ac3ffffff": 890,
-      "876526368ffffff": 72,
-      "876520cb0ffffff": 237,
-      "876520d82ffffff": 1193,
-      "876520db3ffffff": 1542,
-      "876526363ffffff": 118,
-      "876526ad1ffffff": 835,
-      "876520ca6ffffff": 809,
-      "876520d9dffffff": 615,
-      "876520d90ffffff": 1542,
-      "876520cb4ffffff": 91,
-      "876520ca3ffffff": 648,
-      "876526366ffffff": 414,
-      "876520d86ffffff": 3341,
-      "876526ac8ffffff": 1073,
-      "876526341ffffff": 1303,
-      "87652634effffff": 438,
-      "876520d92ffffff": 642,
-      "876526361ffffff": 737,
-      "876520cb1ffffff": 380,
-      "876520cb3ffffff": 243,
-      "876520ca1ffffff": 663,
-      "876520d98ffffff": 113,
-      "876526adcffffff": 1728,
-      "876520d83ffffff": 721,
-      "876520d80ffffff": 1280,
-      "876526aceffffff": 1586,
-      "876520d96ffffff": 440,
-      "876526ac9ffffff": 1442,
-      "876520d94ffffff": 1396,
-      "876526ad9ffffff": 44,
-      "876520d93ffffff": 208,
-      "876526ac1ffffff": 286,
-      "876526addffffff": 1923,
-      "876526349ffffff": 573,
-      "876526348ffffff": 1146,
-      "876526ad8ffffff": 892,
-      "876526acdffffff": 608,
-      "876526accffffff": 346,
-      "876520ca4ffffff": 291,
-      "876520caeffffff": 663,
-      "876520db2ffffff": 300,
-      "876526360ffffff": 940,
-      "87652636cffffff": 1005,
-      "876520d8affffff": 562,
-      "876526362ffffff": 318,
-      "876520ca0ffffff": 622,
-      "876520db1ffffff": 157,
-      "876520d99ffffff": 327,
-      "876520d8effffff": 202,
-      "876520d81ffffff": 140,
-      "876526364ffffff": 223,
-      "87652636effffff": 267,
-      "876526ad3ffffff": 73,
-      "876526343ffffff": 26,
-      "876520d9cffffff": 300,
-      "876526acbffffff": 155,
-      "876526adeffffff": 218,
-      "876520ca2ffffff": 156,
-      "87652634bffffff": 9,
-      "876526ac2ffffff": 92,
-      "876520d84ffffff": 424,
-      "876520d9bffffff": 131,
-      "876520cb5ffffff": 163,
-      "876526adbffffff": 131,
-      "876520da3ffffff": 5,
-      "87652636affffff": 114,
-      "87652636bffffff": 24,
-      "876520d91ffffff": 217,
-      "876520ca5ffffff": 29,
-      "876520cf6ffffff": 2,
-      "876520c82ffffff": 3,
-      "876520d9affffff": 6,
-      "876520d9effffff": 30,
-      "876520ca9ffffff": 17,
-      "876520cb6ffffff": 3,
-      "876520cadffffff": 27,
-      "87652634affffff": 68,
-      "87652634dffffff": 27,
-      "876520c94ffffff": 54,
-      "876520cacffffff": 213,
-      "876520d85ffffff": 4,
-      "876520c18ffffff": 7,
-      "876520c12ffffff": 7,
-      "876520c1affffff": 11,
-      "87652636dffffff": 12,
-      "876520c14ffffff": 5,
-      "876520c13ffffff": 19,
-      "876520cb2ffffff": 3,
-      "876520c11ffffff": 1,
-      "876520c80ffffff": 7,
-      "876520c84ffffff": 8,
-      "876520c1dffffff": 1,
-      "876520c15ffffff": 2,
-      "876526ad5ffffff": 2,
-      "876520c85ffffff": 2,
-      "876526ac6ffffff": 6,
-      "876520c16ffffff": 0,
-      "876520d8bffffff": 6,
-      "87652634cffffff": 9,
-      "876526344ffffff": 2,
-      "876520d89ffffff": 2,
-      "876520c1effffff": 7,
-      "876526ad0ffffff": 3,
-      "876526345ffffff": 2,
-      "876520c1cffffff": 1,
-      "876526ac0ffffff": 1,
-      "876520db0ffffff": 2,
-      "876520c95ffffff": 1,
-      "876526340ffffff": 1,
-      "876526369ffffff": 1,
-      "876520d95ffffff": 2353,
-      "876520c86ffffff": 0
+    {
+      "key": "876520cb4ffffff",
+      "count": 10
     },
-    "03/08/2010 09:30:05-03/08/2010 09:45:05": {
-      "876526375ffffff": 190,
-      "876526acaffffff": 187,
-      "876526365ffffff": 767,
-      "876526ac3ffffff": 978,
-      "876526368ffffff": 77,
-      "876520cb0ffffff": 248,
-      "876520d82ffffff": 1393,
-      "876520db3ffffff": 1793,
-      "876526363ffffff": 125,
-      "876526ad1ffffff": 875,
-      "876520ca6ffffff": 884,
-      "876520d9dffffff": 703,
-      "876520d90ffffff": 1738,
-      "876520cb4ffffff": 99,
-      "876520ca3ffffff": 714,
-      "876526366ffffff": 455,
-      "876520d86ffffff": 3771,
-      "876526ac8ffffff": 1174,
-      "876526341ffffff": 1365,
-      "87652634effffff": 464,
-      "876520d92ffffff": 714,
-      "876526361ffffff": 796,
-      "876520cb1ffffff": 399,
-      "876520cb3ffffff": 252,
-      "876520ca1ffffff": 721,
-      "876520d98ffffff": 134,
-      "876526adcffffff": 1854,
-      "876520d83ffffff": 826,
-      "876520d80ffffff": 1425,
-      "876526aceffffff": 1735,
-      "876520d96ffffff": 509,
-      "876526ac9ffffff": 1621,
-      "876520d94ffffff": 1601,
-      "876526ad9ffffff": 48,
-      "876520d93ffffff": 231,
-      "876526ac1ffffff": 317,
-      "876526addffffff": 2054,
-      "876526349ffffff": 613,
-      "876526348ffffff": 1221,
-      "876526ad8ffffff": 962,
-      "876526acdffffff": 672,
-      "876526accffffff": 383,
-      "876520ca4ffffff": 326,
-      "876520caeffffff": 718,
-      "876520db2ffffff": 349,
-      "876526360ffffff": 1004,
-      "87652636cffffff": 1111,
-      "876520d8affffff": 626,
-      "876526362ffffff": 337,
-      "876520ca0ffffff": 697,
-      "876520db1ffffff": 184,
-      "876520d99ffffff": 386,
-      "876520d8effffff": 233,
-      "876520d81ffffff": 165,
-      "876526364ffffff": 236,
-      "87652636effffff": 290,
-      "876526ad3ffffff": 78,
-      "876526343ffffff": 27,
-      "876520d9cffffff": 354,
-      "876526acbffffff": 179,
-      "876526adeffffff": 234,
-      "876520ca2ffffff": 174,
-      "87652634bffffff": 9,
-      "876526ac2ffffff": 104,
-      "876520d84ffffff": 477,
-      "876520d9bffffff": 147,
-      "876520cb5ffffff": 177,
-      "876526adbffffff": 137,
-      "876520da3ffffff": 6,
-      "87652636affffff": 124,
-      "87652636bffffff": 25,
-      "876520d91ffffff": 254,
-      "876520ca5ffffff": 32,
-      "876520cf6ffffff": 2,
-      "876520c82ffffff": 3,
-      "876520d9affffff": 7,
-      "876520d9effffff": 33,
-      "876520ca9ffffff": 17,
-      "876520cb6ffffff": 3,
-      "876520cadffffff": 30,
-      "87652634affffff": 75,
-      "87652634dffffff": 28,
-      "876520c94ffffff": 57,
-      "876520cacffffff": 224,
-      "876520d85ffffff": 6,
-      "876520c18ffffff": 7,
-      "876520c12ffffff": 9,
-      "876520c1affffff": 11,
-      "87652636dffffff": 13,
-      "876520c14ffffff": 6,
-      "876520c13ffffff": 20,
-      "876520cb2ffffff": 3,
-      "876520c11ffffff": 1,
-      "876520c80ffffff": 7,
-      "876520c84ffffff": 9,
-      "876520c1dffffff": 1,
-      "876520c15ffffff": 2,
-      "876526ad5ffffff": 2,
-      "876520c85ffffff": 2,
-      "876526ac6ffffff": 6,
-      "876520c16ffffff": 0,
-      "876520d8bffffff": 6,
-      "87652634cffffff": 9,
-      "876526344ffffff": 2,
-      "876520d89ffffff": 2,
-      "876520c1effffff": 7,
-      "876526ad0ffffff": 4,
-      "876526345ffffff": 2,
-      "876520c1cffffff": 1,
-      "876526ac0ffffff": 1,
-      "876520db0ffffff": 3,
-      "876520c95ffffff": 1,
-      "876526340ffffff": 1,
-      "876526369ffffff": 1,
-      "876520d95ffffff": 2735,
-      "876520c86ffffff": 0
+    {
+      "key": "876520ca3ffffff",
+      "count": 27
+    },
+    {
+      "key": "876526366ffffff",
+      "count": 19
+    },
+    {
+      "key": "876520d86ffffff",
+      "count": 51
+    },
+    {
+      "key": "876526ac8ffffff",
+      "count": 35
+    },
+    {
+      "key": "876526341ffffff",
+      "count": 59
+    },
+    {
+      "key": "87652634effffff",
+      "count": 18
+    },
+    {
+      "key": "876520d92ffffff",
+      "count": 27
+    },
+    {
+      "key": "876526361ffffff",
+      "count": 32
+    },
+    {
+      "key": "876520cb1ffffff",
+      "count": 24
+    },
+    {
+      "key": "876520cb3ffffff",
+      "count": 15
+    },
+    {
+      "key": "876520ca1ffffff",
+      "count": 13
+    },
+    {
+      "key": "876520d98ffffff",
+      "count": 1
+    },
+    {
+      "key": "876526adcffffff",
+      "count": 47
+    },
+    {
+      "key": "876520d83ffffff",
+      "count": 14
+    },
+    {
+      "key": "876520d80ffffff",
+      "count": 15
+    },
+    {
+      "key": "876526aceffffff",
+      "count": 57
+    },
+    {
+      "key": "876520d96ffffff",
+      "count": 13
+    },
+    {
+      "key": "876526ac9ffffff",
+      "count": 59
+    },
+    {
+      "key": "876520d94ffffff",
+      "count": 63
+    },
+    {
+      "key": "876526ad9ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d93ffffff",
+      "count": 8
+    },
+    {
+      "key": "876526ac1ffffff",
+      "count": 6
+    },
+    {
+      "key": "876526addffffff",
+      "count": 56
+    },
+    {
+      "key": "876526349ffffff",
+      "count": 32
+    },
+    {
+      "key": "876526348ffffff",
+      "count": 41
+    },
+    {
+      "key": "876526ad8ffffff",
+      "count": 24
+    },
+    {
+      "key": "876526acdffffff",
+      "count": 21
+    },
+    {
+      "key": "876526accffffff",
+      "count": 9
+    },
+    {
+      "key": "876520ca4ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520caeffffff",
+      "count": 24
+    },
+    {
+      "key": "876520db2ffffff",
+      "count": 3
+    },
+    {
+      "key": "876526360ffffff",
+      "count": 44
+    },
+    {
+      "key": "87652636cffffff",
+      "count": 54
+    },
+    {
+      "key": "876520d8affffff",
+      "count": 11
+    },
+    {
+      "key": "876526362ffffff",
+      "count": 18
+    },
+    {
+      "key": "876520ca0ffffff",
+      "count": 30
+    },
+    {
+      "key": "876520db1ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d99ffffff",
+      "count": 12
+    },
+    {
+      "key": "876520d8effffff",
+      "count": 6
+    },
+    {
+      "key": "876520d81ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526364ffffff",
+      "count": 16
+    },
+    {
+      "key": "87652636effffff",
+      "count": 5
+    },
+    {
+      "key": "876526ad3ffffff",
+      "count": 2
+    },
+    {
+      "key": "876526343ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9cffffff",
+      "count": 4
+    },
+    {
+      "key": "876526acbffffff",
+      "count": 3
+    },
+    {
+      "key": "876526adeffffff",
+      "count": 2
+    },
+    {
+      "key": "876520ca2ffffff",
+      "count": 12
+    },
+    {
+      "key": "87652634bffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac2ffffff",
+      "count": 13
+    },
+    {
+      "key": "876520d84ffffff",
+      "count": 20
+    },
+    {
+      "key": "876520d9bffffff",
+      "count": 4
+    },
+    {
+      "key": "876520cb5ffffff",
+      "count": 13
+    },
+    {
+      "key": "876526adbffffff",
+      "count": 5
+    },
+    {
+      "key": "876520da3ffffff",
+      "count": 0
+    },
+    {
+      "key": "87652636affffff",
+      "count": 4
+    },
+    {
+      "key": "87652636bffffff",
+      "count": 3
+    },
+    {
+      "key": "876520d91ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520ca5ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cf6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c82ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9affffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9effffff",
+      "count": 1
+    },
+    {
+      "key": "876520ca9ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cb6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cadffffff",
+      "count": 0
+    },
+    {
+      "key": "87652634affffff",
+      "count": 3
+    },
+    {
+      "key": "87652634dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c94ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cacffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c18ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c12ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1affffff",
+      "count": 1
+    },
+    {
+      "key": "87652636dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c14ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c13ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cb2ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c11ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c80ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c84ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c1dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c15ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad5ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c16ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d8bffffff",
+      "count": 0
+    },
+    {
+      "key": "87652634cffffff",
+      "count": 1
+    },
+    {
+      "key": "876526344ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d89ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1effffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526345ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520db0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c95ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526340ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526369ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d95ffffff",
+      "count": 54
+    },
+    {
+      "key": "876520c86ffffff",
+      "count": 0
     }
+  ],
+  "03/08/2010 06:15:05-03/08/2010 06:30:05": [
+    {
+      "key": "876526375ffffff",
+      "count": 5
+    },
+    {
+      "key": "876526acaffffff",
+      "count": 9
+    },
+    {
+      "key": "876526365ffffff",
+      "count": 22
+    },
+    {
+      "key": "876526ac3ffffff",
+      "count": 28
+    },
+    {
+      "key": "876526368ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520cb0ffffff",
+      "count": 20
+    },
+    {
+      "key": "876520d82ffffff",
+      "count": 18
+    },
+    {
+      "key": "876520db3ffffff",
+      "count": 50
+    },
+    {
+      "key": "876526363ffffff",
+      "count": 8
+    },
+    {
+      "key": "876526ad1ffffff",
+      "count": 70
+    },
+    {
+      "key": "876520ca6ffffff",
+      "count": 27
+    },
+    {
+      "key": "876520d9dffffff",
+      "count": 14
+    },
+    {
+      "key": "876520d90ffffff",
+      "count": 50
+    },
+    {
+      "key": "876520cb4ffffff",
+      "count": 10
+    },
+    {
+      "key": "876520ca3ffffff",
+      "count": 26
+    },
+    {
+      "key": "876526366ffffff",
+      "count": 16
+    },
+    {
+      "key": "876520d86ffffff",
+      "count": 51
+    },
+    {
+      "key": "876526ac8ffffff",
+      "count": 52
+    },
+    {
+      "key": "876526341ffffff",
+      "count": 78
+    },
+    {
+      "key": "87652634effffff",
+      "count": 10
+    },
+    {
+      "key": "876520d92ffffff",
+      "count": 15
+    },
+    {
+      "key": "876526361ffffff",
+      "count": 35
+    },
+    {
+      "key": "876520cb1ffffff",
+      "count": 20
+    },
+    {
+      "key": "876520cb3ffffff",
+      "count": 7
+    },
+    {
+      "key": "876520ca1ffffff",
+      "count": 12
+    },
+    {
+      "key": "876520d98ffffff",
+      "count": 4
+    },
+    {
+      "key": "876526adcffffff",
+      "count": 95
+    },
+    {
+      "key": "876520d83ffffff",
+      "count": 7
+    },
+    {
+      "key": "876520d80ffffff",
+      "count": 43
+    },
+    {
+      "key": "876526aceffffff",
+      "count": 61
+    },
+    {
+      "key": "876520d96ffffff",
+      "count": 19
+    },
+    {
+      "key": "876526ac9ffffff",
+      "count": 65
+    },
+    {
+      "key": "876520d94ffffff",
+      "count": 55
+    },
+    {
+      "key": "876526ad9ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d93ffffff",
+      "count": 6
+    },
+    {
+      "key": "876526ac1ffffff",
+      "count": 11
+    },
+    {
+      "key": "876526addffffff",
+      "count": 80
+    },
+    {
+      "key": "876526349ffffff",
+      "count": 27
+    },
+    {
+      "key": "876526348ffffff",
+      "count": 54
+    },
+    {
+      "key": "876526ad8ffffff",
+      "count": 27
+    },
+    {
+      "key": "876526acdffffff",
+      "count": 20
+    },
+    {
+      "key": "876526accffffff",
+      "count": 9
+    },
+    {
+      "key": "876520ca4ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520caeffffff",
+      "count": 26
+    },
+    {
+      "key": "876520db2ffffff",
+      "count": 6
+    },
+    {
+      "key": "876526360ffffff",
+      "count": 47
+    },
+    {
+      "key": "87652636cffffff",
+      "count": 52
+    },
+    {
+      "key": "876520d8affffff",
+      "count": 14
+    },
+    {
+      "key": "876526362ffffff",
+      "count": 8
+    },
+    {
+      "key": "876520ca0ffffff",
+      "count": 22
+    },
+    {
+      "key": "876520db1ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520d99ffffff",
+      "count": 7
+    },
+    {
+      "key": "876520d8effffff",
+      "count": 8
+    },
+    {
+      "key": "876520d81ffffff",
+      "count": 2
+    },
+    {
+      "key": "876526364ffffff",
+      "count": 13
+    },
+    {
+      "key": "87652636effffff",
+      "count": 10
+    },
+    {
+      "key": "876526ad3ffffff",
+      "count": 2
+    },
+    {
+      "key": "876526343ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520d9cffffff",
+      "count": 10
+    },
+    {
+      "key": "876526acbffffff",
+      "count": 2
+    },
+    {
+      "key": "876526adeffffff",
+      "count": 7
+    },
+    {
+      "key": "876520ca2ffffff",
+      "count": 7
+    },
+    {
+      "key": "87652634bffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac2ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520d84ffffff",
+      "count": 13
+    },
+    {
+      "key": "876520d9bffffff",
+      "count": 2
+    },
+    {
+      "key": "876520cb5ffffff",
+      "count": 5
+    },
+    {
+      "key": "876526adbffffff",
+      "count": 3
+    },
+    {
+      "key": "876520da3ffffff",
+      "count": 0
+    },
+    {
+      "key": "87652636affffff",
+      "count": 4
+    },
+    {
+      "key": "87652636bffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d91ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520ca5ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520cf6ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c82ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9affffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9effffff",
+      "count": 1
+    },
+    {
+      "key": "876520ca9ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cb6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cadffffff",
+      "count": 1
+    },
+    {
+      "key": "87652634affffff",
+      "count": 0
+    },
+    {
+      "key": "87652634dffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c94ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cacffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c18ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c12ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1affffff",
+      "count": 0
+    },
+    {
+      "key": "87652636dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c14ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c13ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cb2ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c11ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c80ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c84ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c15ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad5ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c16ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d8bffffff",
+      "count": 0
+    },
+    {
+      "key": "87652634cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526344ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d89ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1effffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526345ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520db0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c95ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526340ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526369ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d95ffffff",
+      "count": 40
+    },
+    {
+      "key": "876520c86ffffff",
+      "count": 0
+    }
+  ],
+  "03/08/2010 06:30:05-03/08/2010 06:45:05": [
+    {
+      "key": "876526375ffffff",
+      "count": 8
+    },
+    {
+      "key": "876526acaffffff",
+      "count": 5
+    },
+    {
+      "key": "876526365ffffff",
+      "count": 27
+    },
+    {
+      "key": "876526ac3ffffff",
+      "count": 48
+    },
+    {
+      "key": "876526368ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520cb0ffffff",
+      "count": 13
+    },
+    {
+      "key": "876520d82ffffff",
+      "count": 31
+    },
+    {
+      "key": "876520db3ffffff",
+      "count": 43
+    },
+    {
+      "key": "876526363ffffff",
+      "count": 11
+    },
+    {
+      "key": "876526ad1ffffff",
+      "count": 84
+    },
+    {
+      "key": "876520ca6ffffff",
+      "count": 15
+    },
+    {
+      "key": "876520d9dffffff",
+      "count": 22
+    },
+    {
+      "key": "876520d90ffffff",
+      "count": 47
+    },
+    {
+      "key": "876520cb4ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520ca3ffffff",
+      "count": 25
+    },
+    {
+      "key": "876526366ffffff",
+      "count": 18
+    },
+    {
+      "key": "876520d86ffffff",
+      "count": 101
+    },
+    {
+      "key": "876526ac8ffffff",
+      "count": 41
+    },
+    {
+      "key": "876526341ffffff",
+      "count": 75
+    },
+    {
+      "key": "87652634effffff",
+      "count": 15
+    },
+    {
+      "key": "876520d92ffffff",
+      "count": 29
+    },
+    {
+      "key": "876526361ffffff",
+      "count": 25
+    },
+    {
+      "key": "876520cb1ffffff",
+      "count": 18
+    },
+    {
+      "key": "876520cb3ffffff",
+      "count": 7
+    },
+    {
+      "key": "876520ca1ffffff",
+      "count": 22
+    },
+    {
+      "key": "876520d98ffffff",
+      "count": 2
+    },
+    {
+      "key": "876526adcffffff",
+      "count": 122
+    },
+    {
+      "key": "876520d83ffffff",
+      "count": 28
+    },
+    {
+      "key": "876520d80ffffff",
+      "count": 48
+    },
+    {
+      "key": "876526aceffffff",
+      "count": 67
+    },
+    {
+      "key": "876520d96ffffff",
+      "count": 17
+    },
+    {
+      "key": "876526ac9ffffff",
+      "count": 64
+    },
+    {
+      "key": "876520d94ffffff",
+      "count": 65
+    },
+    {
+      "key": "876526ad9ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520d93ffffff",
+      "count": 2
+    },
+    {
+      "key": "876526ac1ffffff",
+      "count": 16
+    },
+    {
+      "key": "876526addffffff",
+      "count": 110
+    },
+    {
+      "key": "876526349ffffff",
+      "count": 24
+    },
+    {
+      "key": "876526348ffffff",
+      "count": 36
+    },
+    {
+      "key": "876526ad8ffffff",
+      "count": 51
+    },
+    {
+      "key": "876526acdffffff",
+      "count": 15
+    },
+    {
+      "key": "876526accffffff",
+      "count": 18
+    },
+    {
+      "key": "876520ca4ffffff",
+      "count": 12
+    },
+    {
+      "key": "876520caeffffff",
+      "count": 22
+    },
+    {
+      "key": "876520db2ffffff",
+      "count": 5
+    },
+    {
+      "key": "876526360ffffff",
+      "count": 39
+    },
+    {
+      "key": "87652636cffffff",
+      "count": 33
+    },
+    {
+      "key": "876520d8affffff",
+      "count": 25
+    },
+    {
+      "key": "876526362ffffff",
+      "count": 9
+    },
+    {
+      "key": "876520ca0ffffff",
+      "count": 16
+    },
+    {
+      "key": "876520db1ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520d99ffffff",
+      "count": 14
+    },
+    {
+      "key": "876520d8effffff",
+      "count": 10
+    },
+    {
+      "key": "876520d81ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526364ffffff",
+      "count": 6
+    },
+    {
+      "key": "87652636effffff",
+      "count": 8
+    },
+    {
+      "key": "876526ad3ffffff",
+      "count": 6
+    },
+    {
+      "key": "876526343ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520d9cffffff",
+      "count": 11
+    },
+    {
+      "key": "876526acbffffff",
+      "count": 5
+    },
+    {
+      "key": "876526adeffffff",
+      "count": 16
+    },
+    {
+      "key": "876520ca2ffffff",
+      "count": 6
+    },
+    {
+      "key": "87652634bffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac2ffffff",
+      "count": 6
+    },
+    {
+      "key": "876520d84ffffff",
+      "count": 22
+    },
+    {
+      "key": "876520d9bffffff",
+      "count": 3
+    },
+    {
+      "key": "876520cb5ffffff",
+      "count": 7
+    },
+    {
+      "key": "876526adbffffff",
+      "count": 3
+    },
+    {
+      "key": "876520da3ffffff",
+      "count": 0
+    },
+    {
+      "key": "87652636affffff",
+      "count": 4
+    },
+    {
+      "key": "87652636bffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d91ffffff",
+      "count": 7
+    },
+    {
+      "key": "876520ca5ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cf6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c82ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9affffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9effffff",
+      "count": 1
+    },
+    {
+      "key": "876520ca9ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cb6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cadffffff",
+      "count": 2
+    },
+    {
+      "key": "87652634affffff",
+      "count": 3
+    },
+    {
+      "key": "87652634dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c94ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cacffffff",
+      "count": 7
+    },
+    {
+      "key": "876520d85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c18ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c12ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c1affffff",
+      "count": 1
+    },
+    {
+      "key": "87652636dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c14ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c13ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cb2ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c11ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c80ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c84ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c15ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad5ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c16ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d8bffffff",
+      "count": 0
+    },
+    {
+      "key": "87652634cffffff",
+      "count": 1
+    },
+    {
+      "key": "876526344ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d89ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1effffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526345ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520db0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c95ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526340ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526369ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d95ffffff",
+      "count": 60
+    },
+    {
+      "key": "876520c86ffffff",
+      "count": 0
+    }
+  ],
+  "03/08/2010 06:45:05-03/08/2010 07:00:05": [
+    {
+      "key": "876526375ffffff",
+      "count": 5
+    },
+    {
+      "key": "876526acaffffff",
+      "count": 8
+    },
+    {
+      "key": "876526365ffffff",
+      "count": 34
+    },
+    {
+      "key": "876526ac3ffffff",
+      "count": 71
+    },
+    {
+      "key": "876526368ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cb0ffffff",
+      "count": 12
+    },
+    {
+      "key": "876520d82ffffff",
+      "count": 34
+    },
+    {
+      "key": "876520db3ffffff",
+      "count": 59
+    },
+    {
+      "key": "876526363ffffff",
+      "count": 11
+    },
+    {
+      "key": "876526ad1ffffff",
+      "count": 80
+    },
+    {
+      "key": "876520ca6ffffff",
+      "count": 34
+    },
+    {
+      "key": "876520d9dffffff",
+      "count": 16
+    },
+    {
+      "key": "876520d90ffffff",
+      "count": 54
+    },
+    {
+      "key": "876520cb4ffffff",
+      "count": 7
+    },
+    {
+      "key": "876520ca3ffffff",
+      "count": 38
+    },
+    {
+      "key": "876526366ffffff",
+      "count": 22
+    },
+    {
+      "key": "876520d86ffffff",
+      "count": 141
+    },
+    {
+      "key": "876526ac8ffffff",
+      "count": 50
+    },
+    {
+      "key": "876526341ffffff",
+      "count": 76
+    },
+    {
+      "key": "87652634effffff",
+      "count": 28
+    },
+    {
+      "key": "876520d92ffffff",
+      "count": 25
+    },
+    {
+      "key": "876526361ffffff",
+      "count": 39
+    },
+    {
+      "key": "876520cb1ffffff",
+      "count": 17
+    },
+    {
+      "key": "876520cb3ffffff",
+      "count": 10
+    },
+    {
+      "key": "876520ca1ffffff",
+      "count": 27
+    },
+    {
+      "key": "876520d98ffffff",
+      "count": 6
+    },
+    {
+      "key": "876526adcffffff",
+      "count": 118
+    },
+    {
+      "key": "876520d83ffffff",
+      "count": 38
+    },
+    {
+      "key": "876520d80ffffff",
+      "count": 70
+    },
+    {
+      "key": "876526aceffffff",
+      "count": 102
+    },
+    {
+      "key": "876520d96ffffff",
+      "count": 21
+    },
+    {
+      "key": "876526ac9ffffff",
+      "count": 63
+    },
+    {
+      "key": "876520d94ffffff",
+      "count": 72
+    },
+    {
+      "key": "876526ad9ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d93ffffff",
+      "count": 2
+    },
+    {
+      "key": "876526ac1ffffff",
+      "count": 11
+    },
+    {
+      "key": "876526addffffff",
+      "count": 90
+    },
+    {
+      "key": "876526349ffffff",
+      "count": 23
+    },
+    {
+      "key": "876526348ffffff",
+      "count": 49
+    },
+    {
+      "key": "876526ad8ffffff",
+      "count": 48
+    },
+    {
+      "key": "876526acdffffff",
+      "count": 33
+    },
+    {
+      "key": "876526accffffff",
+      "count": 10
+    },
+    {
+      "key": "876520ca4ffffff",
+      "count": 8
+    },
+    {
+      "key": "876520caeffffff",
+      "count": 35
+    },
+    {
+      "key": "876520db2ffffff",
+      "count": 7
+    },
+    {
+      "key": "876526360ffffff",
+      "count": 46
+    },
+    {
+      "key": "87652636cffffff",
+      "count": 43
+    },
+    {
+      "key": "876520d8affffff",
+      "count": 24
+    },
+    {
+      "key": "876526362ffffff",
+      "count": 19
+    },
+    {
+      "key": "876520ca0ffffff",
+      "count": 31
+    },
+    {
+      "key": "876520db1ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d99ffffff",
+      "count": 15
+    },
+    {
+      "key": "876520d8effffff",
+      "count": 6
+    },
+    {
+      "key": "876520d81ffffff",
+      "count": 4
+    },
+    {
+      "key": "876526364ffffff",
+      "count": 8
+    },
+    {
+      "key": "87652636effffff",
+      "count": 19
+    },
+    {
+      "key": "876526ad3ffffff",
+      "count": 6
+    },
+    {
+      "key": "876526343ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520d9cffffff",
+      "count": 13
+    },
+    {
+      "key": "876526acbffffff",
+      "count": 10
+    },
+    {
+      "key": "876526adeffffff",
+      "count": 20
+    },
+    {
+      "key": "876520ca2ffffff",
+      "count": 11
+    },
+    {
+      "key": "87652634bffffff",
+      "count": 1
+    },
+    {
+      "key": "876526ac2ffffff",
+      "count": 20
+    },
+    {
+      "key": "876520d84ffffff",
+      "count": 25
+    },
+    {
+      "key": "876520d9bffffff",
+      "count": 6
+    },
+    {
+      "key": "876520cb5ffffff",
+      "count": 12
+    },
+    {
+      "key": "876526adbffffff",
+      "count": 6
+    },
+    {
+      "key": "876520da3ffffff",
+      "count": 0
+    },
+    {
+      "key": "87652636affffff",
+      "count": 7
+    },
+    {
+      "key": "87652636bffffff",
+      "count": 3
+    },
+    {
+      "key": "876520d91ffffff",
+      "count": 10
+    },
+    {
+      "key": "876520ca5ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520cf6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c82ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9affffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9effffff",
+      "count": 2
+    },
+    {
+      "key": "876520ca9ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520cb6ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cadffffff",
+      "count": 1
+    },
+    {
+      "key": "87652634affffff",
+      "count": 4
+    },
+    {
+      "key": "87652634dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c94ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520cacffffff",
+      "count": 7
+    },
+    {
+      "key": "876520d85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c18ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c12ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1affffff",
+      "count": 2
+    },
+    {
+      "key": "87652636dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c14ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c13ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cb2ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c11ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c80ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c84ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c1dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c15ffffff",
+      "count": 1
+    },
+    {
+      "key": "876526ad5ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c16ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d8bffffff",
+      "count": 0
+    },
+    {
+      "key": "87652634cffffff",
+      "count": 1
+    },
+    {
+      "key": "876526344ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d89ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1effffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526345ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520db0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c95ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526340ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526369ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d95ffffff",
+      "count": 92
+    },
+    {
+      "key": "876520c86ffffff",
+      "count": 0
+    }
+  ],
+  "03/08/2010 07:00:05-03/08/2010 07:15:05": [
+    {
+      "key": "876526375ffffff",
+      "count": 18
+    },
+    {
+      "key": "876526acaffffff",
+      "count": 16
+    },
+    {
+      "key": "876526365ffffff",
+      "count": 63
+    },
+    {
+      "key": "876526ac3ffffff",
+      "count": 59
+    },
+    {
+      "key": "876526368ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520cb0ffffff",
+      "count": 28
+    },
+    {
+      "key": "876520d82ffffff",
+      "count": 75
+    },
+    {
+      "key": "876520db3ffffff",
+      "count": 57
+    },
+    {
+      "key": "876526363ffffff",
+      "count": 8
+    },
+    {
+      "key": "876526ad1ffffff",
+      "count": 57
+    },
+    {
+      "key": "876520ca6ffffff",
+      "count": 44
+    },
+    {
+      "key": "876520d9dffffff",
+      "count": 27
+    },
+    {
+      "key": "876520d90ffffff",
+      "count": 115
+    },
+    {
+      "key": "876520cb4ffffff",
+      "count": 8
+    },
+    {
+      "key": "876520ca3ffffff",
+      "count": 49
+    },
+    {
+      "key": "876526366ffffff",
+      "count": 37
+    },
+    {
+      "key": "876520d86ffffff",
+      "count": 163
+    },
+    {
+      "key": "876526ac8ffffff",
+      "count": 62
+    },
+    {
+      "key": "876526341ffffff",
+      "count": 114
+    },
+    {
+      "key": "87652634effffff",
+      "count": 35
+    },
+    {
+      "key": "876520d92ffffff",
+      "count": 49
+    },
+    {
+      "key": "876526361ffffff",
+      "count": 39
+    },
+    {
+      "key": "876520cb1ffffff",
+      "count": 30
+    },
+    {
+      "key": "876520cb3ffffff",
+      "count": 19
+    },
+    {
+      "key": "876520ca1ffffff",
+      "count": 51
+    },
+    {
+      "key": "876520d98ffffff",
+      "count": 3
+    },
+    {
+      "key": "876526adcffffff",
+      "count": 120
+    },
+    {
+      "key": "876520d83ffffff",
+      "count": 43
+    },
+    {
+      "key": "876520d80ffffff",
+      "count": 110
+    },
+    {
+      "key": "876526aceffffff",
+      "count": 112
+    },
+    {
+      "key": "876520d96ffffff",
+      "count": 37
+    },
+    {
+      "key": "876526ac9ffffff",
+      "count": 113
+    },
+    {
+      "key": "876520d94ffffff",
+      "count": 82
+    },
+    {
+      "key": "876526ad9ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d93ffffff",
+      "count": 13
+    },
+    {
+      "key": "876526ac1ffffff",
+      "count": 18
+    },
+    {
+      "key": "876526addffffff",
+      "count": 133
+    },
+    {
+      "key": "876526349ffffff",
+      "count": 37
+    },
+    {
+      "key": "876526348ffffff",
+      "count": 81
+    },
+    {
+      "key": "876526ad8ffffff",
+      "count": 75
+    },
+    {
+      "key": "876526acdffffff",
+      "count": 55
+    },
+    {
+      "key": "876526accffffff",
+      "count": 24
+    },
+    {
+      "key": "876520ca4ffffff",
+      "count": 24
+    },
+    {
+      "key": "876520caeffffff",
+      "count": 53
+    },
+    {
+      "key": "876520db2ffffff",
+      "count": 16
+    },
+    {
+      "key": "876526360ffffff",
+      "count": 69
+    },
+    {
+      "key": "87652636cffffff",
+      "count": 72
+    },
+    {
+      "key": "876520d8affffff",
+      "count": 47
+    },
+    {
+      "key": "876526362ffffff",
+      "count": 32
+    },
+    {
+      "key": "876520ca0ffffff",
+      "count": 42
+    },
+    {
+      "key": "876520db1ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520d99ffffff",
+      "count": 22
+    },
+    {
+      "key": "876520d8effffff",
+      "count": 3
+    },
+    {
+      "key": "876520d81ffffff",
+      "count": 7
+    },
+    {
+      "key": "876526364ffffff",
+      "count": 12
+    },
+    {
+      "key": "87652636effffff",
+      "count": 14
+    },
+    {
+      "key": "876526ad3ffffff",
+      "count": 5
+    },
+    {
+      "key": "876526343ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9cffffff",
+      "count": 19
+    },
+    {
+      "key": "876526acbffffff",
+      "count": 5
+    },
+    {
+      "key": "876526adeffffff",
+      "count": 15
+    },
+    {
+      "key": "876520ca2ffffff",
+      "count": 11
+    },
+    {
+      "key": "87652634bffffff",
+      "count": 2
+    },
+    {
+      "key": "876526ac2ffffff",
+      "count": 12
+    },
+    {
+      "key": "876520d84ffffff",
+      "count": 28
+    },
+    {
+      "key": "876520d9bffffff",
+      "count": 11
+    },
+    {
+      "key": "876520cb5ffffff",
+      "count": 14
+    },
+    {
+      "key": "876526adbffffff",
+      "count": 9
+    },
+    {
+      "key": "876520da3ffffff",
+      "count": 0
+    },
+    {
+      "key": "87652636affffff",
+      "count": 9
+    },
+    {
+      "key": "87652636bffffff",
+      "count": 2
+    },
+    {
+      "key": "876520d91ffffff",
+      "count": 13
+    },
+    {
+      "key": "876520ca5ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520cf6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c82ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d9affffff",
+      "count": 2
+    },
+    {
+      "key": "876520d9effffff",
+      "count": 2
+    },
+    {
+      "key": "876520ca9ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cb6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cadffffff",
+      "count": 1
+    },
+    {
+      "key": "87652634affffff",
+      "count": 5
+    },
+    {
+      "key": "87652634dffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c94ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cacffffff",
+      "count": 9
+    },
+    {
+      "key": "876520d85ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c18ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c12ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1affffff",
+      "count": 0
+    },
+    {
+      "key": "87652636dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c14ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c13ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cb2ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c11ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c80ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520c84ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c15ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad5ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c85ffffff",
+      "count": 1
+    },
+    {
+      "key": "876526ac6ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c16ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d8bffffff",
+      "count": 0
+    },
+    {
+      "key": "87652634cffffff",
+      "count": 1
+    },
+    {
+      "key": "876526344ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d89ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1effffff",
+      "count": 1
+    },
+    {
+      "key": "876526ad0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526345ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c1cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac0ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520db0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c95ffffff",
+      "count": 1
+    },
+    {
+      "key": "876526340ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526369ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d95ffffff",
+      "count": 95
+    },
+    {
+      "key": "876520c86ffffff",
+      "count": 0
+    }
+  ],
+  "03/08/2010 07:15:05-03/08/2010 07:30:05": [
+    {
+      "key": "876526375ffffff",
+      "count": 20
+    },
+    {
+      "key": "876526acaffffff",
+      "count": 13
+    },
+    {
+      "key": "876526365ffffff",
+      "count": 53
+    },
+    {
+      "key": "876526ac3ffffff",
+      "count": 53
+    },
+    {
+      "key": "876526368ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520cb0ffffff",
+      "count": 34
+    },
+    {
+      "key": "876520d82ffffff",
+      "count": 78
+    },
+    {
+      "key": "876520db3ffffff",
+      "count": 74
+    },
+    {
+      "key": "876526363ffffff",
+      "count": 6
+    },
+    {
+      "key": "876526ad1ffffff",
+      "count": 58
+    },
+    {
+      "key": "876520ca6ffffff",
+      "count": 56
+    },
+    {
+      "key": "876520d9dffffff",
+      "count": 41
+    },
+    {
+      "key": "876520d90ffffff",
+      "count": 108
+    },
+    {
+      "key": "876520cb4ffffff",
+      "count": 11
+    },
+    {
+      "key": "876520ca3ffffff",
+      "count": 77
+    },
+    {
+      "key": "876526366ffffff",
+      "count": 44
+    },
+    {
+      "key": "876520d86ffffff",
+      "count": 178
+    },
+    {
+      "key": "876526ac8ffffff",
+      "count": 92
+    },
+    {
+      "key": "876526341ffffff",
+      "count": 127
+    },
+    {
+      "key": "87652634effffff",
+      "count": 33
+    },
+    {
+      "key": "876520d92ffffff",
+      "count": 55
+    },
+    {
+      "key": "876526361ffffff",
+      "count": 66
+    },
+    {
+      "key": "876520cb1ffffff",
+      "count": 44
+    },
+    {
+      "key": "876520cb3ffffff",
+      "count": 23
+    },
+    {
+      "key": "876520ca1ffffff",
+      "count": 51
+    },
+    {
+      "key": "876520d98ffffff",
+      "count": 4
+    },
+    {
+      "key": "876526adcffffff",
+      "count": 121
+    },
+    {
+      "key": "876520d83ffffff",
+      "count": 40
+    },
+    {
+      "key": "876520d80ffffff",
+      "count": 84
+    },
+    {
+      "key": "876526aceffffff",
+      "count": 116
+    },
+    {
+      "key": "876520d96ffffff",
+      "count": 35
+    },
+    {
+      "key": "876526ac9ffffff",
+      "count": 99
+    },
+    {
+      "key": "876520d94ffffff",
+      "count": 81
+    },
+    {
+      "key": "876526ad9ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520d93ffffff",
+      "count": 11
+    },
+    {
+      "key": "876526ac1ffffff",
+      "count": 19
+    },
+    {
+      "key": "876526addffffff",
+      "count": 153
+    },
+    {
+      "key": "876526349ffffff",
+      "count": 47
+    },
+    {
+      "key": "876526348ffffff",
+      "count": 111
+    },
+    {
+      "key": "876526ad8ffffff",
+      "count": 60
+    },
+    {
+      "key": "876526acdffffff",
+      "count": 45
+    },
+    {
+      "key": "876526accffffff",
+      "count": 30
+    },
+    {
+      "key": "876520ca4ffffff",
+      "count": 17
+    },
+    {
+      "key": "876520caeffffff",
+      "count": 59
+    },
+    {
+      "key": "876520db2ffffff",
+      "count": 21
+    },
+    {
+      "key": "876526360ffffff",
+      "count": 112
+    },
+    {
+      "key": "87652636cffffff",
+      "count": 86
+    },
+    {
+      "key": "876520d8affffff",
+      "count": 37
+    },
+    {
+      "key": "876526362ffffff",
+      "count": 40
+    },
+    {
+      "key": "876520ca0ffffff",
+      "count": 54
+    },
+    {
+      "key": "876520db1ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520d99ffffff",
+      "count": 26
+    },
+    {
+      "key": "876520d8effffff",
+      "count": 13
+    },
+    {
+      "key": "876520d81ffffff",
+      "count": 9
+    },
+    {
+      "key": "876526364ffffff",
+      "count": 20
+    },
+    {
+      "key": "87652636effffff",
+      "count": 23
+    },
+    {
+      "key": "876526ad3ffffff",
+      "count": 7
+    },
+    {
+      "key": "876526343ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9cffffff",
+      "count": 36
+    },
+    {
+      "key": "876526acbffffff",
+      "count": 11
+    },
+    {
+      "key": "876526adeffffff",
+      "count": 11
+    },
+    {
+      "key": "876520ca2ffffff",
+      "count": 8
+    },
+    {
+      "key": "87652634bffffff",
+      "count": 1
+    },
+    {
+      "key": "876526ac2ffffff",
+      "count": 8
+    },
+    {
+      "key": "876520d84ffffff",
+      "count": 21
+    },
+    {
+      "key": "876520d9bffffff",
+      "count": 6
+    },
+    {
+      "key": "876520cb5ffffff",
+      "count": 23
+    },
+    {
+      "key": "876526adbffffff",
+      "count": 21
+    },
+    {
+      "key": "876520da3ffffff",
+      "count": 1
+    },
+    {
+      "key": "87652636affffff",
+      "count": 13
+    },
+    {
+      "key": "87652636bffffff",
+      "count": 2
+    },
+    {
+      "key": "876520d91ffffff",
+      "count": 9
+    },
+    {
+      "key": "876520ca5ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520cf6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c82ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9affffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9effffff",
+      "count": 4
+    },
+    {
+      "key": "876520ca9ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cb6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cadffffff",
+      "count": 2
+    },
+    {
+      "key": "87652634affffff",
+      "count": 5
+    },
+    {
+      "key": "87652634dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c94ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520cacffffff",
+      "count": 5
+    },
+    {
+      "key": "876520d85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c18ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c12ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c1affffff",
+      "count": 1
+    },
+    {
+      "key": "87652636dffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c14ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c13ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520cb2ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c11ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c80ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c84ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c1dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c15ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad5ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c16ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d8bffffff",
+      "count": 1
+    },
+    {
+      "key": "87652634cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526344ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d89ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1effffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526345ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520db0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c95ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526340ffffff",
+      "count": 1
+    },
+    {
+      "key": "876526369ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d95ffffff",
+      "count": 156
+    },
+    {
+      "key": "876520c86ffffff",
+      "count": 0
+    }
+  ],
+  "03/08/2010 07:30:05-03/08/2010 07:45:05": [
+    {
+      "key": "876526375ffffff",
+      "count": 30
+    },
+    {
+      "key": "876526acaffffff",
+      "count": 13
+    },
+    {
+      "key": "876526365ffffff",
+      "count": 70
+    },
+    {
+      "key": "876526ac3ffffff",
+      "count": 56
+    },
+    {
+      "key": "876526368ffffff",
+      "count": 7
+    },
+    {
+      "key": "876520cb0ffffff",
+      "count": 31
+    },
+    {
+      "key": "876520d82ffffff",
+      "count": 86
+    },
+    {
+      "key": "876520db3ffffff",
+      "count": 96
+    },
+    {
+      "key": "876526363ffffff",
+      "count": 14
+    },
+    {
+      "key": "876526ad1ffffff",
+      "count": 90
+    },
+    {
+      "key": "876520ca6ffffff",
+      "count": 72
+    },
+    {
+      "key": "876520d9dffffff",
+      "count": 50
+    },
+    {
+      "key": "876520d90ffffff",
+      "count": 129
+    },
+    {
+      "key": "876520cb4ffffff",
+      "count": 10
+    },
+    {
+      "key": "876520ca3ffffff",
+      "count": 77
+    },
+    {
+      "key": "876526366ffffff",
+      "count": 61
+    },
+    {
+      "key": "876520d86ffffff",
+      "count": 255
+    },
+    {
+      "key": "876526ac8ffffff",
+      "count": 91
+    },
+    {
+      "key": "876526341ffffff",
+      "count": 122
+    },
+    {
+      "key": "87652634effffff",
+      "count": 39
+    },
+    {
+      "key": "876520d92ffffff",
+      "count": 70
+    },
+    {
+      "key": "876526361ffffff",
+      "count": 77
+    },
+    {
+      "key": "876520cb1ffffff",
+      "count": 51
+    },
+    {
+      "key": "876520cb3ffffff",
+      "count": 42
+    },
+    {
+      "key": "876520ca1ffffff",
+      "count": 60
+    },
+    {
+      "key": "876520d98ffffff",
+      "count": 10
+    },
+    {
+      "key": "876526adcffffff",
+      "count": 138
+    },
+    {
+      "key": "876520d83ffffff",
+      "count": 58
+    },
+    {
+      "key": "876520d80ffffff",
+      "count": 97
+    },
+    {
+      "key": "876526aceffffff",
+      "count": 138
+    },
+    {
+      "key": "876520d96ffffff",
+      "count": 27
+    },
+    {
+      "key": "876526ac9ffffff",
+      "count": 93
+    },
+    {
+      "key": "876520d94ffffff",
+      "count": 89
+    },
+    {
+      "key": "876526ad9ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d93ffffff",
+      "count": 21
+    },
+    {
+      "key": "876526ac1ffffff",
+      "count": 23
+    },
+    {
+      "key": "876526addffffff",
+      "count": 163
+    },
+    {
+      "key": "876526349ffffff",
+      "count": 50
+    },
+    {
+      "key": "876526348ffffff",
+      "count": 108
+    },
+    {
+      "key": "876526ad8ffffff",
+      "count": 76
+    },
+    {
+      "key": "876526acdffffff",
+      "count": 51
+    },
+    {
+      "key": "876526accffffff",
+      "count": 42
+    },
+    {
+      "key": "876520ca4ffffff",
+      "count": 19
+    },
+    {
+      "key": "876520caeffffff",
+      "count": 76
+    },
+    {
+      "key": "876520db2ffffff",
+      "count": 21
+    },
+    {
+      "key": "876526360ffffff",
+      "count": 119
+    },
+    {
+      "key": "87652636cffffff",
+      "count": 99
+    },
+    {
+      "key": "876520d8affffff",
+      "count": 41
+    },
+    {
+      "key": "876526362ffffff",
+      "count": 41
+    },
+    {
+      "key": "876520ca0ffffff",
+      "count": 51
+    },
+    {
+      "key": "876520db1ffffff",
+      "count": 7
+    },
+    {
+      "key": "876520d99ffffff",
+      "count": 34
+    },
+    {
+      "key": "876520d8effffff",
+      "count": 12
+    },
+    {
+      "key": "876520d81ffffff",
+      "count": 5
+    },
+    {
+      "key": "876526364ffffff",
+      "count": 24
+    },
+    {
+      "key": "87652636effffff",
+      "count": 19
+    },
+    {
+      "key": "876526ad3ffffff",
+      "count": 5
+    },
+    {
+      "key": "876526343ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520d9cffffff",
+      "count": 22
+    },
+    {
+      "key": "876526acbffffff",
+      "count": 10
+    },
+    {
+      "key": "876526adeffffff",
+      "count": 27
+    },
+    {
+      "key": "876520ca2ffffff",
+      "count": 24
+    },
+    {
+      "key": "87652634bffffff",
+      "count": 1
+    },
+    {
+      "key": "876526ac2ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520d84ffffff",
+      "count": 24
+    },
+    {
+      "key": "876520d9bffffff",
+      "count": 11
+    },
+    {
+      "key": "876520cb5ffffff",
+      "count": 25
+    },
+    {
+      "key": "876526adbffffff",
+      "count": 11
+    },
+    {
+      "key": "876520da3ffffff",
+      "count": 0
+    },
+    {
+      "key": "87652636affffff",
+      "count": 10
+    },
+    {
+      "key": "87652636bffffff",
+      "count": 2
+    },
+    {
+      "key": "876520d91ffffff",
+      "count": 14
+    },
+    {
+      "key": "876520ca5ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520cf6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c82ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9affffff",
+      "count": 2
+    },
+    {
+      "key": "876520d9effffff",
+      "count": 3
+    },
+    {
+      "key": "876520ca9ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cb6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cadffffff",
+      "count": 2
+    },
+    {
+      "key": "87652634affffff",
+      "count": 9
+    },
+    {
+      "key": "87652634dffffff",
+      "count": 5
+    },
+    {
+      "key": "876520c94ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520cacffffff",
+      "count": 12
+    },
+    {
+      "key": "876520d85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c18ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c12ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1affffff",
+      "count": 0
+    },
+    {
+      "key": "87652636dffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c14ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c13ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cb2ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c11ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c80ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c84ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520c1dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c15ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad5ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c85ffffff",
+      "count": 1
+    },
+    {
+      "key": "876526ac6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c16ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d8bffffff",
+      "count": 1
+    },
+    {
+      "key": "87652634cffffff",
+      "count": 2
+    },
+    {
+      "key": "876526344ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d89ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1effffff",
+      "count": 1
+    },
+    {
+      "key": "876526ad0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526345ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520db0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c95ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526340ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526369ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d95ffffff",
+      "count": 137
+    },
+    {
+      "key": "876520c86ffffff",
+      "count": 0
+    }
+  ],
+  "03/08/2010 07:45:05-03/08/2010 08:00:05": [
+    {
+      "key": "876526375ffffff",
+      "count": 20
+    },
+    {
+      "key": "876526acaffffff",
+      "count": 28
+    },
+    {
+      "key": "876526365ffffff",
+      "count": 72
+    },
+    {
+      "key": "876526ac3ffffff",
+      "count": 68
+    },
+    {
+      "key": "876526368ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520cb0ffffff",
+      "count": 14
+    },
+    {
+      "key": "876520d82ffffff",
+      "count": 86
+    },
+    {
+      "key": "876520db3ffffff",
+      "count": 115
+    },
+    {
+      "key": "876526363ffffff",
+      "count": 8
+    },
+    {
+      "key": "876526ad1ffffff",
+      "count": 62
+    },
+    {
+      "key": "876520ca6ffffff",
+      "count": 98
+    },
+    {
+      "key": "876520d9dffffff",
+      "count": 59
+    },
+    {
+      "key": "876520d90ffffff",
+      "count": 114
+    },
+    {
+      "key": "876520cb4ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520ca3ffffff",
+      "count": 46
+    },
+    {
+      "key": "876526366ffffff",
+      "count": 46
+    },
+    {
+      "key": "876520d86ffffff",
+      "count": 281
+    },
+    {
+      "key": "876526ac8ffffff",
+      "count": 116
+    },
+    {
+      "key": "876526341ffffff",
+      "count": 126
+    },
+    {
+      "key": "87652634effffff",
+      "count": 50
+    },
+    {
+      "key": "876520d92ffffff",
+      "count": 69
+    },
+    {
+      "key": "876526361ffffff",
+      "count": 98
+    },
+    {
+      "key": "876520cb1ffffff",
+      "count": 38
+    },
+    {
+      "key": "876520cb3ffffff",
+      "count": 31
+    },
+    {
+      "key": "876520ca1ffffff",
+      "count": 59
+    },
+    {
+      "key": "876520d98ffffff",
+      "count": 4
+    },
+    {
+      "key": "876526adcffffff",
+      "count": 163
+    },
+    {
+      "key": "876520d83ffffff",
+      "count": 48
+    },
+    {
+      "key": "876520d80ffffff",
+      "count": 88
+    },
+    {
+      "key": "876526aceffffff",
+      "count": 152
+    },
+    {
+      "key": "876520d96ffffff",
+      "count": 29
+    },
+    {
+      "key": "876526ac9ffffff",
+      "count": 104
+    },
+    {
+      "key": "876520d94ffffff",
+      "count": 108
+    },
+    {
+      "key": "876526ad9ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520d93ffffff",
+      "count": 25
+    },
+    {
+      "key": "876526ac1ffffff",
+      "count": 26
+    },
+    {
+      "key": "876526addffffff",
+      "count": 184
+    },
+    {
+      "key": "876526349ffffff",
+      "count": 49
+    },
+    {
+      "key": "876526348ffffff",
+      "count": 124
+    },
+    {
+      "key": "876526ad8ffffff",
+      "count": 103
+    },
+    {
+      "key": "876526acdffffff",
+      "count": 64
+    },
+    {
+      "key": "876526accffffff",
+      "count": 37
+    },
+    {
+      "key": "876520ca4ffffff",
+      "count": 29
+    },
+    {
+      "key": "876520caeffffff",
+      "count": 61
+    },
+    {
+      "key": "876520db2ffffff",
+      "count": 26
+    },
+    {
+      "key": "876526360ffffff",
+      "count": 110
+    },
+    {
+      "key": "87652636cffffff",
+      "count": 101
+    },
+    {
+      "key": "876520d8affffff",
+      "count": 50
+    },
+    {
+      "key": "876526362ffffff",
+      "count": 33
+    },
+    {
+      "key": "876520ca0ffffff",
+      "count": 49
+    },
+    {
+      "key": "876520db1ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520d99ffffff",
+      "count": 20
+    },
+    {
+      "key": "876520d8effffff",
+      "count": 24
+    },
+    {
+      "key": "876520d81ffffff",
+      "count": 6
+    },
+    {
+      "key": "876526364ffffff",
+      "count": 24
+    },
+    {
+      "key": "87652636effffff",
+      "count": 21
+    },
+    {
+      "key": "876526ad3ffffff",
+      "count": 4
+    },
+    {
+      "key": "876526343ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d9cffffff",
+      "count": 22
+    },
+    {
+      "key": "876526acbffffff",
+      "count": 12
+    },
+    {
+      "key": "876526adeffffff",
+      "count": 19
+    },
+    {
+      "key": "876520ca2ffffff",
+      "count": 22
+    },
+    {
+      "key": "87652634bffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac2ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520d84ffffff",
+      "count": 24
+    },
+    {
+      "key": "876520d9bffffff",
+      "count": 14
+    },
+    {
+      "key": "876520cb5ffffff",
+      "count": 19
+    },
+    {
+      "key": "876526adbffffff",
+      "count": 7
+    },
+    {
+      "key": "876520da3ffffff",
+      "count": 0
+    },
+    {
+      "key": "87652636affffff",
+      "count": 9
+    },
+    {
+      "key": "87652636bffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d91ffffff",
+      "count": 15
+    },
+    {
+      "key": "876520ca5ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cf6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c82ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520d9affffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9effffff",
+      "count": 5
+    },
+    {
+      "key": "876520ca9ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520cb6ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cadffffff",
+      "count": 3
+    },
+    {
+      "key": "87652634affffff",
+      "count": 7
+    },
+    {
+      "key": "87652634dffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c94ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520cacffffff",
+      "count": 35
+    },
+    {
+      "key": "876520d85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c18ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c12ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1affffff",
+      "count": 1
+    },
+    {
+      "key": "87652636dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c14ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c13ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520cb2ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c11ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c80ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c84ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c15ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad5ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac6ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c16ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d8bffffff",
+      "count": 1
+    },
+    {
+      "key": "87652634cffffff",
+      "count": 2
+    },
+    {
+      "key": "876526344ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d89ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1effffff",
+      "count": 1
+    },
+    {
+      "key": "876526ad0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526345ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520db0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c95ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526340ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526369ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d95ffffff",
+      "count": 157
+    },
+    {
+      "key": "876520c86ffffff",
+      "count": 0
+    }
+  ],
+  "03/08/2010 08:00:05-03/08/2010 08:15:05": [
+    {
+      "key": "876526375ffffff",
+      "count": 22
+    },
+    {
+      "key": "876526acaffffff",
+      "count": 28
+    },
+    {
+      "key": "876526365ffffff",
+      "count": 86
+    },
+    {
+      "key": "876526ac3ffffff",
+      "count": 77
+    },
+    {
+      "key": "876526368ffffff",
+      "count": 6
+    },
+    {
+      "key": "876520cb0ffffff",
+      "count": 18
+    },
+    {
+      "key": "876520d82ffffff",
+      "count": 114
+    },
+    {
+      "key": "876520db3ffffff",
+      "count": 132
+    },
+    {
+      "key": "876526363ffffff",
+      "count": 16
+    },
+    {
+      "key": "876526ad1ffffff",
+      "count": 70
+    },
+    {
+      "key": "876520ca6ffffff",
+      "count": 101
+    },
+    {
+      "key": "876520d9dffffff",
+      "count": 61
+    },
+    {
+      "key": "876520d90ffffff",
+      "count": 151
+    },
+    {
+      "key": "876520cb4ffffff",
+      "count": 7
+    },
+    {
+      "key": "876520ca3ffffff",
+      "count": 59
+    },
+    {
+      "key": "876526366ffffff",
+      "count": 53
+    },
+    {
+      "key": "876520d86ffffff",
+      "count": 336
+    },
+    {
+      "key": "876526ac8ffffff",
+      "count": 109
+    },
+    {
+      "key": "876526341ffffff",
+      "count": 154
+    },
+    {
+      "key": "87652634effffff",
+      "count": 60
+    },
+    {
+      "key": "876520d92ffffff",
+      "count": 67
+    },
+    {
+      "key": "876526361ffffff",
+      "count": 85
+    },
+    {
+      "key": "876520cb1ffffff",
+      "count": 40
+    },
+    {
+      "key": "876520cb3ffffff",
+      "count": 24
+    },
+    {
+      "key": "876520ca1ffffff",
+      "count": 68
+    },
+    {
+      "key": "876520d98ffffff",
+      "count": 10
+    },
+    {
+      "key": "876526adcffffff",
+      "count": 145
+    },
+    {
+      "key": "876520d83ffffff",
+      "count": 68
+    },
+    {
+      "key": "876520d80ffffff",
+      "count": 111
+    },
+    {
+      "key": "876526aceffffff",
+      "count": 183
+    },
+    {
+      "key": "876520d96ffffff",
+      "count": 45
+    },
+    {
+      "key": "876526ac9ffffff",
+      "count": 130
+    },
+    {
+      "key": "876520d94ffffff",
+      "count": 115
+    },
+    {
+      "key": "876526ad9ffffff",
+      "count": 7
+    },
+    {
+      "key": "876520d93ffffff",
+      "count": 20
+    },
+    {
+      "key": "876526ac1ffffff",
+      "count": 38
+    },
+    {
+      "key": "876526addffffff",
+      "count": 217
+    },
+    {
+      "key": "876526349ffffff",
+      "count": 61
+    },
+    {
+      "key": "876526348ffffff",
+      "count": 130
+    },
+    {
+      "key": "876526ad8ffffff",
+      "count": 98
+    },
+    {
+      "key": "876526acdffffff",
+      "count": 42
+    },
+    {
+      "key": "876526accffffff",
+      "count": 35
+    },
+    {
+      "key": "876520ca4ffffff",
+      "count": 31
+    },
+    {
+      "key": "876520caeffffff",
+      "count": 68
+    },
+    {
+      "key": "876520db2ffffff",
+      "count": 38
+    },
+    {
+      "key": "876526360ffffff",
+      "count": 116
+    },
+    {
+      "key": "87652636cffffff",
+      "count": 103
+    },
+    {
+      "key": "876520d8affffff",
+      "count": 52
+    },
+    {
+      "key": "876526362ffffff",
+      "count": 32
+    },
+    {
+      "key": "876520ca0ffffff",
+      "count": 76
+    },
+    {
+      "key": "876520db1ffffff",
+      "count": 15
+    },
+    {
+      "key": "876520d99ffffff",
+      "count": 36
+    },
+    {
+      "key": "876520d8effffff",
+      "count": 21
+    },
+    {
+      "key": "876520d81ffffff",
+      "count": 15
+    },
+    {
+      "key": "876526364ffffff",
+      "count": 29
+    },
+    {
+      "key": "87652636effffff",
+      "count": 25
+    },
+    {
+      "key": "876526ad3ffffff",
+      "count": 10
+    },
+    {
+      "key": "876526343ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520d9cffffff",
+      "count": 18
+    },
+    {
+      "key": "876526acbffffff",
+      "count": 16
+    },
+    {
+      "key": "876526adeffffff",
+      "count": 20
+    },
+    {
+      "key": "876520ca2ffffff",
+      "count": 6
+    },
+    {
+      "key": "87652634bffffff",
+      "count": 1
+    },
+    {
+      "key": "876526ac2ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520d84ffffff",
+      "count": 30
+    },
+    {
+      "key": "876520d9bffffff",
+      "count": 13
+    },
+    {
+      "key": "876520cb5ffffff",
+      "count": 15
+    },
+    {
+      "key": "876526adbffffff",
+      "count": 18
+    },
+    {
+      "key": "876520da3ffffff",
+      "count": 0
+    },
+    {
+      "key": "87652636affffff",
+      "count": 15
+    },
+    {
+      "key": "87652636bffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d91ffffff",
+      "count": 23
+    },
+    {
+      "key": "876520ca5ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520cf6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c82ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9affffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9effffff",
+      "count": 4
+    },
+    {
+      "key": "876520ca9ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520cb6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cadffffff",
+      "count": 2
+    },
+    {
+      "key": "87652634affffff",
+      "count": 10
+    },
+    {
+      "key": "87652634dffffff",
+      "count": 6
+    },
+    {
+      "key": "876520c94ffffff",
+      "count": 7
+    },
+    {
+      "key": "876520cacffffff",
+      "count": 23
+    },
+    {
+      "key": "876520d85ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c18ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c12ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c1affffff",
+      "count": 1
+    },
+    {
+      "key": "87652636dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c14ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c13ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520cb2ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c11ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c80ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c84ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c1dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c15ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad5ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac6ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c16ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d8bffffff",
+      "count": 0
+    },
+    {
+      "key": "87652634cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526344ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d89ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1effffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526345ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520db0ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c95ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526340ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526369ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d95ffffff",
+      "count": 245
+    },
+    {
+      "key": "876520c86ffffff",
+      "count": 0
+    }
+  ],
+  "03/08/2010 08:15:05-03/08/2010 08:30:05": [
+    {
+      "key": "876526375ffffff",
+      "count": 23
+    },
+    {
+      "key": "876526acaffffff",
+      "count": 17
+    },
+    {
+      "key": "876526365ffffff",
+      "count": 48
+    },
+    {
+      "key": "876526ac3ffffff",
+      "count": 112
+    },
+    {
+      "key": "876526368ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520cb0ffffff",
+      "count": 10
+    },
+    {
+      "key": "876520d82ffffff",
+      "count": 116
+    },
+    {
+      "key": "876520db3ffffff",
+      "count": 165
+    },
+    {
+      "key": "876526363ffffff",
+      "count": 11
+    },
+    {
+      "key": "876526ad1ffffff",
+      "count": 72
+    },
+    {
+      "key": "876520ca6ffffff",
+      "count": 74
+    },
+    {
+      "key": "876520d9dffffff",
+      "count": 71
+    },
+    {
+      "key": "876520d90ffffff",
+      "count": 157
+    },
+    {
+      "key": "876520cb4ffffff",
+      "count": 8
+    },
+    {
+      "key": "876520ca3ffffff",
+      "count": 49
+    },
+    {
+      "key": "876526366ffffff",
+      "count": 32
+    },
+    {
+      "key": "876520d86ffffff",
+      "count": 419
+    },
+    {
+      "key": "876526ac8ffffff",
+      "count": 108
+    },
+    {
+      "key": "876526341ffffff",
+      "count": 129
+    },
+    {
+      "key": "87652634effffff",
+      "count": 47
+    },
+    {
+      "key": "876520d92ffffff",
+      "count": 74
+    },
+    {
+      "key": "876526361ffffff",
+      "count": 61
+    },
+    {
+      "key": "876520cb1ffffff",
+      "count": 40
+    },
+    {
+      "key": "876520cb3ffffff",
+      "count": 26
+    },
+    {
+      "key": "876520ca1ffffff",
+      "count": 80
+    },
+    {
+      "key": "876520d98ffffff",
+      "count": 14
+    },
+    {
+      "key": "876526adcffffff",
+      "count": 202
+    },
+    {
+      "key": "876520d83ffffff",
+      "count": 77
+    },
+    {
+      "key": "876520d80ffffff",
+      "count": 144
+    },
+    {
+      "key": "876526aceffffff",
+      "count": 174
+    },
+    {
+      "key": "876520d96ffffff",
+      "count": 46
+    },
+    {
+      "key": "876526ac9ffffff",
+      "count": 139
+    },
+    {
+      "key": "876520d94ffffff",
+      "count": 131
+    },
+    {
+      "key": "876526ad9ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520d93ffffff",
+      "count": 21
+    },
+    {
+      "key": "876526ac1ffffff",
+      "count": 30
+    },
+    {
+      "key": "876526addffffff",
+      "count": 181
+    },
+    {
+      "key": "876526349ffffff",
+      "count": 57
+    },
+    {
+      "key": "876526348ffffff",
+      "count": 112
+    },
+    {
+      "key": "876526ad8ffffff",
+      "count": 84
+    },
+    {
+      "key": "876526acdffffff",
+      "count": 42
+    },
+    {
+      "key": "876526accffffff",
+      "count": 34
+    },
+    {
+      "key": "876520ca4ffffff",
+      "count": 39
+    },
+    {
+      "key": "876520caeffffff",
+      "count": 68
+    },
+    {
+      "key": "876520db2ffffff",
+      "count": 33
+    },
+    {
+      "key": "876526360ffffff",
+      "count": 72
+    },
+    {
+      "key": "87652636cffffff",
+      "count": 96
+    },
+    {
+      "key": "876520d8affffff",
+      "count": 57
+    },
+    {
+      "key": "876526362ffffff",
+      "count": 34
+    },
+    {
+      "key": "876520ca0ffffff",
+      "count": 60
+    },
+    {
+      "key": "876520db1ffffff",
+      "count": 16
+    },
+    {
+      "key": "876520d99ffffff",
+      "count": 29
+    },
+    {
+      "key": "876520d8effffff",
+      "count": 18
+    },
+    {
+      "key": "876520d81ffffff",
+      "count": 27
+    },
+    {
+      "key": "876526364ffffff",
+      "count": 24
+    },
+    {
+      "key": "87652636effffff",
+      "count": 25
+    },
+    {
+      "key": "876526ad3ffffff",
+      "count": 14
+    },
+    {
+      "key": "876526343ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520d9cffffff",
+      "count": 38
+    },
+    {
+      "key": "876526acbffffff",
+      "count": 17
+    },
+    {
+      "key": "876526adeffffff",
+      "count": 25
+    },
+    {
+      "key": "876520ca2ffffff",
+      "count": 8
+    },
+    {
+      "key": "87652634bffffff",
+      "count": 2
+    },
+    {
+      "key": "876526ac2ffffff",
+      "count": 6
+    },
+    {
+      "key": "876520d84ffffff",
+      "count": 50
+    },
+    {
+      "key": "876520d9bffffff",
+      "count": 11
+    },
+    {
+      "key": "876520cb5ffffff",
+      "count": 8
+    },
+    {
+      "key": "876526adbffffff",
+      "count": 11
+    },
+    {
+      "key": "876520da3ffffff",
+      "count": 1
+    },
+    {
+      "key": "87652636affffff",
+      "count": 14
+    },
+    {
+      "key": "87652636bffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d91ffffff",
+      "count": 23
+    },
+    {
+      "key": "876520ca5ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cf6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c82ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9affffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9effffff",
+      "count": 1
+    },
+    {
+      "key": "876520ca9ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cb6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cadffffff",
+      "count": 1
+    },
+    {
+      "key": "87652634affffff",
+      "count": 7
+    },
+    {
+      "key": "87652634dffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c94ffffff",
+      "count": 6
+    },
+    {
+      "key": "876520cacffffff",
+      "count": 31
+    },
+    {
+      "key": "876520d85ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c18ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c12ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c1affffff",
+      "count": 1
+    },
+    {
+      "key": "87652636dffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c14ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c13ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cb2ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c11ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c80ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c84ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c15ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad5ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac6ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c16ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d8bffffff",
+      "count": 0
+    },
+    {
+      "key": "87652634cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526344ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d89ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c1effffff",
+      "count": 1
+    },
+    {
+      "key": "876526ad0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526345ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1cffffff",
+      "count": 1
+    },
+    {
+      "key": "876526ac0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520db0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c95ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526340ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526369ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d95ffffff",
+      "count": 275
+    },
+    {
+      "key": "876520c86ffffff",
+      "count": 0
+    }
+  ],
+  "03/08/2010 08:30:05-03/08/2010 08:45:05": [
+    {
+      "key": "876526375ffffff",
+      "count": 12
+    },
+    {
+      "key": "876526acaffffff",
+      "count": 10
+    },
+    {
+      "key": "876526365ffffff",
+      "count": 62
+    },
+    {
+      "key": "876526ac3ffffff",
+      "count": 117
+    },
+    {
+      "key": "876526368ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520cb0ffffff",
+      "count": 9
+    },
+    {
+      "key": "876520d82ffffff",
+      "count": 137
+    },
+    {
+      "key": "876520db3ffffff",
+      "count": 236
+    },
+    {
+      "key": "876526363ffffff",
+      "count": 8
+    },
+    {
+      "key": "876526ad1ffffff",
+      "count": 64
+    },
+    {
+      "key": "876520ca6ffffff",
+      "count": 85
+    },
+    {
+      "key": "876520d9dffffff",
+      "count": 81
+    },
+    {
+      "key": "876520d90ffffff",
+      "count": 173
+    },
+    {
+      "key": "876520cb4ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520ca3ffffff",
+      "count": 44
+    },
+    {
+      "key": "876526366ffffff",
+      "count": 27
+    },
+    {
+      "key": "876520d86ffffff",
+      "count": 441
+    },
+    {
+      "key": "876526ac8ffffff",
+      "count": 110
+    },
+    {
+      "key": "876526341ffffff",
+      "count": 97
+    },
+    {
+      "key": "87652634effffff",
+      "count": 39
+    },
+    {
+      "key": "876520d92ffffff",
+      "count": 51
+    },
+    {
+      "key": "876526361ffffff",
+      "count": 61
+    },
+    {
+      "key": "876520cb1ffffff",
+      "count": 23
+    },
+    {
+      "key": "876520cb3ffffff",
+      "count": 12
+    },
+    {
+      "key": "876520ca1ffffff",
+      "count": 82
+    },
+    {
+      "key": "876520d98ffffff",
+      "count": 17
+    },
+    {
+      "key": "876526adcffffff",
+      "count": 166
+    },
+    {
+      "key": "876520d83ffffff",
+      "count": 101
+    },
+    {
+      "key": "876520d80ffffff",
+      "count": 141
+    },
+    {
+      "key": "876526aceffffff",
+      "count": 143
+    },
+    {
+      "key": "876520d96ffffff",
+      "count": 39
+    },
+    {
+      "key": "876526ac9ffffff",
+      "count": 143
+    },
+    {
+      "key": "876520d94ffffff",
+      "count": 151
+    },
+    {
+      "key": "876526ad9ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520d93ffffff",
+      "count": 18
+    },
+    {
+      "key": "876526ac1ffffff",
+      "count": 26
+    },
+    {
+      "key": "876526addffffff",
+      "count": 174
+    },
+    {
+      "key": "876526349ffffff",
+      "count": 61
+    },
+    {
+      "key": "876526348ffffff",
+      "count": 95
+    },
+    {
+      "key": "876526ad8ffffff",
+      "count": 91
+    },
+    {
+      "key": "876526acdffffff",
+      "count": 57
+    },
+    {
+      "key": "876526accffffff",
+      "count": 29
+    },
+    {
+      "key": "876520ca4ffffff",
+      "count": 38
+    },
+    {
+      "key": "876520caeffffff",
+      "count": 60
+    },
+    {
+      "key": "876520db2ffffff",
+      "count": 32
+    },
+    {
+      "key": "876526360ffffff",
+      "count": 65
+    },
+    {
+      "key": "87652636cffffff",
+      "count": 82
+    },
+    {
+      "key": "876520d8affffff",
+      "count": 67
+    },
+    {
+      "key": "876526362ffffff",
+      "count": 21
+    },
+    {
+      "key": "876520ca0ffffff",
+      "count": 53
+    },
+    {
+      "key": "876520db1ffffff",
+      "count": 25
+    },
+    {
+      "key": "876520d99ffffff",
+      "count": 28
+    },
+    {
+      "key": "876520d8effffff",
+      "count": 24
+    },
+    {
+      "key": "876520d81ffffff",
+      "count": 21
+    },
+    {
+      "key": "876526364ffffff",
+      "count": 14
+    },
+    {
+      "key": "87652636effffff",
+      "count": 36
+    },
+    {
+      "key": "876526ad3ffffff",
+      "count": 7
+    },
+    {
+      "key": "876526343ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d9cffffff",
+      "count": 34
+    },
+    {
+      "key": "876526acbffffff",
+      "count": 27
+    },
+    {
+      "key": "876526adeffffff",
+      "count": 15
+    },
+    {
+      "key": "876520ca2ffffff",
+      "count": 6
+    },
+    {
+      "key": "87652634bffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac2ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520d84ffffff",
+      "count": 47
+    },
+    {
+      "key": "876520d9bffffff",
+      "count": 17
+    },
+    {
+      "key": "876520cb5ffffff",
+      "count": 6
+    },
+    {
+      "key": "876526adbffffff",
+      "count": 15
+    },
+    {
+      "key": "876520da3ffffff",
+      "count": 0
+    },
+    {
+      "key": "87652636affffff",
+      "count": 10
+    },
+    {
+      "key": "87652636bffffff",
+      "count": 5
+    },
+    {
+      "key": "876520d91ffffff",
+      "count": 26
+    },
+    {
+      "key": "876520ca5ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cf6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c82ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9affffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9effffff",
+      "count": 1
+    },
+    {
+      "key": "876520ca9ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520cb6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cadffffff",
+      "count": 1
+    },
+    {
+      "key": "87652634affffff",
+      "count": 6
+    },
+    {
+      "key": "87652634dffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c94ffffff",
+      "count": 8
+    },
+    {
+      "key": "876520cacffffff",
+      "count": 33
+    },
+    {
+      "key": "876520d85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c18ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c12ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c1affffff",
+      "count": 0
+    },
+    {
+      "key": "87652636dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c14ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c13ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520cb2ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c11ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c80ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c84ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c15ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad5ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c16ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d8bffffff",
+      "count": 1
+    },
+    {
+      "key": "87652634cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526344ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d89ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1effffff",
+      "count": 2
+    },
+    {
+      "key": "876526ad0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526345ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520db0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c95ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526340ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526369ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d95ffffff",
+      "count": 307
+    },
+    {
+      "key": "876520c86ffffff",
+      "count": 0
+    }
+  ],
+  "03/08/2010 08:45:05-03/08/2010 09:00:05": [
+    {
+      "key": "876526375ffffff",
+      "count": 8
+    },
+    {
+      "key": "876526acaffffff",
+      "count": 13
+    },
+    {
+      "key": "876526365ffffff",
+      "count": 69
+    },
+    {
+      "key": "876526ac3ffffff",
+      "count": 97
+    },
+    {
+      "key": "876526368ffffff",
+      "count": 15
+    },
+    {
+      "key": "876520cb0ffffff",
+      "count": 9
+    },
+    {
+      "key": "876520d82ffffff",
+      "count": 187
+    },
+    {
+      "key": "876520db3ffffff",
+      "count": 237
+    },
+    {
+      "key": "876526363ffffff",
+      "count": 8
+    },
+    {
+      "key": "876526ad1ffffff",
+      "count": 47
+    },
+    {
+      "key": "876520ca6ffffff",
+      "count": 87
+    },
+    {
+      "key": "876520d9dffffff",
+      "count": 74
+    },
+    {
+      "key": "876520d90ffffff",
+      "count": 159
+    },
+    {
+      "key": "876520cb4ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520ca3ffffff",
+      "count": 58
+    },
+    {
+      "key": "876526366ffffff",
+      "count": 17
+    },
+    {
+      "key": "876520d86ffffff",
+      "count": 468
+    },
+    {
+      "key": "876526ac8ffffff",
+      "count": 102
+    },
+    {
+      "key": "876526341ffffff",
+      "count": 76
+    },
+    {
+      "key": "87652634effffff",
+      "count": 37
+    },
+    {
+      "key": "876520d92ffffff",
+      "count": 47
+    },
+    {
+      "key": "876526361ffffff",
+      "count": 54
+    },
+    {
+      "key": "876520cb1ffffff",
+      "count": 15
+    },
+    {
+      "key": "876520cb3ffffff",
+      "count": 15
+    },
+    {
+      "key": "876520ca1ffffff",
+      "count": 74
+    },
+    {
+      "key": "876520d98ffffff",
+      "count": 13
+    },
+    {
+      "key": "876526adcffffff",
+      "count": 159
+    },
+    {
+      "key": "876520d83ffffff",
+      "count": 89
+    },
+    {
+      "key": "876520d80ffffff",
+      "count": 172
+    },
+    {
+      "key": "876526aceffffff",
+      "count": 127
+    },
+    {
+      "key": "876520d96ffffff",
+      "count": 56
+    },
+    {
+      "key": "876526ac9ffffff",
+      "count": 170
+    },
+    {
+      "key": "876520d94ffffff",
+      "count": 186
+    },
+    {
+      "key": "876526ad9ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520d93ffffff",
+      "count": 21
+    },
+    {
+      "key": "876526ac1ffffff",
+      "count": 27
+    },
+    {
+      "key": "876526addffffff",
+      "count": 197
+    },
+    {
+      "key": "876526349ffffff",
+      "count": 58
+    },
+    {
+      "key": "876526348ffffff",
+      "count": 101
+    },
+    {
+      "key": "876526ad8ffffff",
+      "count": 87
+    },
+    {
+      "key": "876526acdffffff",
+      "count": 63
+    },
+    {
+      "key": "876526accffffff",
+      "count": 29
+    },
+    {
+      "key": "876520ca4ffffff",
+      "count": 32
+    },
+    {
+      "key": "876520caeffffff",
+      "count": 62
+    },
+    {
+      "key": "876520db2ffffff",
+      "count": 46
+    },
+    {
+      "key": "876526360ffffff",
+      "count": 49
+    },
+    {
+      "key": "87652636cffffff",
+      "count": 89
+    },
+    {
+      "key": "876520d8affffff",
+      "count": 60
+    },
+    {
+      "key": "876526362ffffff",
+      "count": 16
+    },
+    {
+      "key": "876520ca0ffffff",
+      "count": 71
+    },
+    {
+      "key": "876520db1ffffff",
+      "count": 34
+    },
+    {
+      "key": "876520d99ffffff",
+      "count": 36
+    },
+    {
+      "key": "876520d8effffff",
+      "count": 30
+    },
+    {
+      "key": "876520d81ffffff",
+      "count": 21
+    },
+    {
+      "key": "876526364ffffff",
+      "count": 17
+    },
+    {
+      "key": "87652636effffff",
+      "count": 25
+    },
+    {
+      "key": "876526ad3ffffff",
+      "count": 1
+    },
+    {
+      "key": "876526343ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520d9cffffff",
+      "count": 33
+    },
+    {
+      "key": "876526acbffffff",
+      "count": 18
+    },
+    {
+      "key": "876526adeffffff",
+      "count": 20
+    },
+    {
+      "key": "876520ca2ffffff",
+      "count": 12
+    },
+    {
+      "key": "87652634bffffff",
+      "count": 1
+    },
+    {
+      "key": "876526ac2ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520d84ffffff",
+      "count": 74
+    },
+    {
+      "key": "876520d9bffffff",
+      "count": 17
+    },
+    {
+      "key": "876520cb5ffffff",
+      "count": 7
+    },
+    {
+      "key": "876526adbffffff",
+      "count": 14
+    },
+    {
+      "key": "876520da3ffffff",
+      "count": 1
+    },
+    {
+      "key": "87652636affffff",
+      "count": 10
+    },
+    {
+      "key": "87652636bffffff",
+      "count": 5
+    },
+    {
+      "key": "876520d91ffffff",
+      "count": 26
+    },
+    {
+      "key": "876520ca5ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520cf6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c82ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9affffff",
+      "count": 2
+    },
+    {
+      "key": "876520d9effffff",
+      "count": 0
+    },
+    {
+      "key": "876520ca9ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520cb6ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cadffffff",
+      "count": 5
+    },
+    {
+      "key": "87652634affffff",
+      "count": 7
+    },
+    {
+      "key": "87652634dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c94ffffff",
+      "count": 11
+    },
+    {
+      "key": "876520cacffffff",
+      "count": 28
+    },
+    {
+      "key": "876520d85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c18ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c12ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1affffff",
+      "count": 2
+    },
+    {
+      "key": "87652636dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c14ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c13ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cb2ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c11ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c80ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c84ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c15ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad5ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac6ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c16ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d8bffffff",
+      "count": 1
+    },
+    {
+      "key": "87652634cffffff",
+      "count": 1
+    },
+    {
+      "key": "876526344ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d89ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1effffff",
+      "count": 1
+    },
+    {
+      "key": "876526ad0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526345ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c1cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520db0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c95ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526340ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526369ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d95ffffff",
+      "count": 364
+    },
+    {
+      "key": "876520c86ffffff",
+      "count": 0
+    }
+  ],
+  "03/08/2010 09:00:05-03/08/2010 09:15:05": [
+    {
+      "key": "876526375ffffff",
+      "count": 7
+    },
+    {
+      "key": "876526acaffffff",
+      "count": 8
+    },
+    {
+      "key": "876526365ffffff",
+      "count": 71
+    },
+    {
+      "key": "876526ac3ffffff",
+      "count": 85
+    },
+    {
+      "key": "876526368ffffff",
+      "count": 10
+    },
+    {
+      "key": "876520cb0ffffff",
+      "count": 6
+    },
+    {
+      "key": "876520d82ffffff",
+      "count": 208
+    },
+    {
+      "key": "876520db3ffffff",
+      "count": 230
+    },
+    {
+      "key": "876526363ffffff",
+      "count": 5
+    },
+    {
+      "key": "876526ad1ffffff",
+      "count": 44
+    },
+    {
+      "key": "876520ca6ffffff",
+      "count": 86
+    },
+    {
+      "key": "876520d9dffffff",
+      "count": 89
+    },
+    {
+      "key": "876520d90ffffff",
+      "count": 247
+    },
+    {
+      "key": "876520cb4ffffff",
+      "count": 6
+    },
+    {
+      "key": "876520ca3ffffff",
+      "count": 72
+    },
+    {
+      "key": "876526366ffffff",
+      "count": 21
+    },
+    {
+      "key": "876520d86ffffff",
+      "count": 452
+    },
+    {
+      "key": "876526ac8ffffff",
+      "count": 104
+    },
+    {
+      "key": "876526341ffffff",
+      "count": 70
+    },
+    {
+      "key": "87652634effffff",
+      "count": 27
+    },
+    {
+      "key": "876520d92ffffff",
+      "count": 64
+    },
+    {
+      "key": "876526361ffffff",
+      "count": 65
+    },
+    {
+      "key": "876520cb1ffffff",
+      "count": 20
+    },
+    {
+      "key": "876520cb3ffffff",
+      "count": 12
+    },
+    {
+      "key": "876520ca1ffffff",
+      "count": 64
+    },
+    {
+      "key": "876520d98ffffff",
+      "count": 24
+    },
+    {
+      "key": "876526adcffffff",
+      "count": 131
+    },
+    {
+      "key": "876520d83ffffff",
+      "count": 110
+    },
+    {
+      "key": "876520d80ffffff",
+      "count": 156
+    },
+    {
+      "key": "876526aceffffff",
+      "count": 151
+    },
+    {
+      "key": "876520d96ffffff",
+      "count": 56
+    },
+    {
+      "key": "876526ac9ffffff",
+      "count": 198
+    },
+    {
+      "key": "876520d94ffffff",
+      "count": 196
+    },
+    {
+      "key": "876526ad9ffffff",
+      "count": 9
+    },
+    {
+      "key": "876520d93ffffff",
+      "count": 40
+    },
+    {
+      "key": "876526ac1ffffff",
+      "count": 34
+    },
+    {
+      "key": "876526addffffff",
+      "count": 183
+    },
+    {
+      "key": "876526349ffffff",
+      "count": 47
+    },
+    {
+      "key": "876526348ffffff",
+      "count": 102
+    },
+    {
+      "key": "876526ad8ffffff",
+      "count": 68
+    },
+    {
+      "key": "876526acdffffff",
+      "count": 100
+    },
+    {
+      "key": "876526accffffff",
+      "count": 40
+    },
+    {
+      "key": "876520ca4ffffff",
+      "count": 35
+    },
+    {
+      "key": "876520caeffffff",
+      "count": 48
+    },
+    {
+      "key": "876520db2ffffff",
+      "count": 45
+    },
+    {
+      "key": "876526360ffffff",
+      "count": 52
+    },
+    {
+      "key": "87652636cffffff",
+      "count": 94
+    },
+    {
+      "key": "876520d8affffff",
+      "count": 77
+    },
+    {
+      "key": "876526362ffffff",
+      "count": 15
+    },
+    {
+      "key": "876520ca0ffffff",
+      "count": 67
+    },
+    {
+      "key": "876520db1ffffff",
+      "count": 42
+    },
+    {
+      "key": "876520d99ffffff",
+      "count": 48
+    },
+    {
+      "key": "876520d8effffff",
+      "count": 27
+    },
+    {
+      "key": "876520d81ffffff",
+      "count": 23
+    },
+    {
+      "key": "876526364ffffff",
+      "count": 16
+    },
+    {
+      "key": "87652636effffff",
+      "count": 37
+    },
+    {
+      "key": "876526ad3ffffff",
+      "count": 4
+    },
+    {
+      "key": "876526343ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9cffffff",
+      "count": 39
+    },
+    {
+      "key": "876526acbffffff",
+      "count": 19
+    },
+    {
+      "key": "876526adeffffff",
+      "count": 19
+    },
+    {
+      "key": "876520ca2ffffff",
+      "count": 23
+    },
+    {
+      "key": "87652634bffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac2ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520d84ffffff",
+      "count": 46
+    },
+    {
+      "key": "876520d9bffffff",
+      "count": 15
+    },
+    {
+      "key": "876520cb5ffffff",
+      "count": 9
+    },
+    {
+      "key": "876526adbffffff",
+      "count": 8
+    },
+    {
+      "key": "876520da3ffffff",
+      "count": 2
+    },
+    {
+      "key": "87652636affffff",
+      "count": 5
+    },
+    {
+      "key": "87652636bffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d91ffffff",
+      "count": 48
+    },
+    {
+      "key": "876520ca5ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520cf6ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c82ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9affffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9effffff",
+      "count": 5
+    },
+    {
+      "key": "876520ca9ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520cb6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cadffffff",
+      "count": 6
+    },
+    {
+      "key": "87652634affffff",
+      "count": 2
+    },
+    {
+      "key": "87652634dffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c94ffffff",
+      "count": 6
+    },
+    {
+      "key": "876520cacffffff",
+      "count": 23
+    },
+    {
+      "key": "876520d85ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c18ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c12ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1affffff",
+      "count": 1
+    },
+    {
+      "key": "87652636dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c14ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c13ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520cb2ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c11ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c80ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c84ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c15ffffff",
+      "count": 1
+    },
+    {
+      "key": "876526ad5ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c16ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d8bffffff",
+      "count": 1
+    },
+    {
+      "key": "87652634cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526344ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d89ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1effffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad0ffffff",
+      "count": 3
+    },
+    {
+      "key": "876526345ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520db0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c95ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526340ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526369ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d95ffffff",
+      "count": 368
+    },
+    {
+      "key": "876520c86ffffff",
+      "count": 0
+    }
+  ],
+  "03/08/2010 09:15:05-03/08/2010 09:30:05": [
+    {
+      "key": "876526375ffffff",
+      "count": 5
+    },
+    {
+      "key": "876526acaffffff",
+      "count": 16
+    },
+    {
+      "key": "876526365ffffff",
+      "count": 65
+    },
+    {
+      "key": "876526ac3ffffff",
+      "count": 88
+    },
+    {
+      "key": "876526368ffffff",
+      "count": 5
+    },
+    {
+      "key": "876520cb0ffffff",
+      "count": 11
+    },
+    {
+      "key": "876520d82ffffff",
+      "count": 200
+    },
+    {
+      "key": "876520db3ffffff",
+      "count": 251
+    },
+    {
+      "key": "876526363ffffff",
+      "count": 7
+    },
+    {
+      "key": "876526ad1ffffff",
+      "count": 40
+    },
+    {
+      "key": "876520ca6ffffff",
+      "count": 75
+    },
+    {
+      "key": "876520d9dffffff",
+      "count": 88
+    },
+    {
+      "key": "876520d90ffffff",
+      "count": 196
+    },
+    {
+      "key": "876520cb4ffffff",
+      "count": 8
+    },
+    {
+      "key": "876520ca3ffffff",
+      "count": 66
+    },
+    {
+      "key": "876526366ffffff",
+      "count": 41
+    },
+    {
+      "key": "876520d86ffffff",
+      "count": 430
+    },
+    {
+      "key": "876526ac8ffffff",
+      "count": 101
+    },
+    {
+      "key": "876526341ffffff",
+      "count": 62
+    },
+    {
+      "key": "87652634effffff",
+      "count": 26
+    },
+    {
+      "key": "876520d92ffffff",
+      "count": 72
+    },
+    {
+      "key": "876526361ffffff",
+      "count": 59
+    },
+    {
+      "key": "876520cb1ffffff",
+      "count": 19
+    },
+    {
+      "key": "876520cb3ffffff",
+      "count": 9
+    },
+    {
+      "key": "876520ca1ffffff",
+      "count": 58
+    },
+    {
+      "key": "876520d98ffffff",
+      "count": 21
+    },
+    {
+      "key": "876526adcffffff",
+      "count": 126
+    },
+    {
+      "key": "876520d83ffffff",
+      "count": 105
+    },
+    {
+      "key": "876520d80ffffff",
+      "count": 144
+    },
+    {
+      "key": "876526aceffffff",
+      "count": 149
+    },
+    {
+      "key": "876520d96ffffff",
+      "count": 69
+    },
+    {
+      "key": "876526ac9ffffff",
+      "count": 179
+    },
+    {
+      "key": "876520d94ffffff",
+      "count": 205
+    },
+    {
+      "key": "876526ad9ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520d93ffffff",
+      "count": 23
+    },
+    {
+      "key": "876526ac1ffffff",
+      "count": 31
+    },
+    {
+      "key": "876526addffffff",
+      "count": 131
+    },
+    {
+      "key": "876526349ffffff",
+      "count": 40
+    },
+    {
+      "key": "876526348ffffff",
+      "count": 75
+    },
+    {
+      "key": "876526ad8ffffff",
+      "count": 69
+    },
+    {
+      "key": "876526acdffffff",
+      "count": 63
+    },
+    {
+      "key": "876526accffffff",
+      "count": 37
+    },
+    {
+      "key": "876520ca4ffffff",
+      "count": 35
+    },
+    {
+      "key": "876520caeffffff",
+      "count": 54
+    },
+    {
+      "key": "876520db2ffffff",
+      "count": 49
+    },
+    {
+      "key": "876526360ffffff",
+      "count": 64
+    },
+    {
+      "key": "87652636cffffff",
+      "count": 106
+    },
+    {
+      "key": "876520d8affffff",
+      "count": 64
+    },
+    {
+      "key": "876526362ffffff",
+      "count": 19
+    },
+    {
+      "key": "876520ca0ffffff",
+      "count": 75
+    },
+    {
+      "key": "876520db1ffffff",
+      "count": 27
+    },
+    {
+      "key": "876520d99ffffff",
+      "count": 59
+    },
+    {
+      "key": "876520d8effffff",
+      "count": 31
+    },
+    {
+      "key": "876520d81ffffff",
+      "count": 25
+    },
+    {
+      "key": "876526364ffffff",
+      "count": 13
+    },
+    {
+      "key": "87652636effffff",
+      "count": 23
+    },
+    {
+      "key": "876526ad3ffffff",
+      "count": 5
+    },
+    {
+      "key": "876526343ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d9cffffff",
+      "count": 54
+    },
+    {
+      "key": "876526acbffffff",
+      "count": 24
+    },
+    {
+      "key": "876526adeffffff",
+      "count": 16
+    },
+    {
+      "key": "876520ca2ffffff",
+      "count": 18
+    },
+    {
+      "key": "87652634bffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac2ffffff",
+      "count": 12
+    },
+    {
+      "key": "876520d84ffffff",
+      "count": 53
+    },
+    {
+      "key": "876520d9bffffff",
+      "count": 16
+    },
+    {
+      "key": "876520cb5ffffff",
+      "count": 14
+    },
+    {
+      "key": "876526adbffffff",
+      "count": 6
+    },
+    {
+      "key": "876520da3ffffff",
+      "count": 1
+    },
+    {
+      "key": "87652636affffff",
+      "count": 10
+    },
+    {
+      "key": "87652636bffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d91ffffff",
+      "count": 37
+    },
+    {
+      "key": "876520ca5ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520cf6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c82ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9affffff",
+      "count": 1
+    },
+    {
+      "key": "876520d9effffff",
+      "count": 3
+    },
+    {
+      "key": "876520ca9ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cb6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cadffffff",
+      "count": 3
+    },
+    {
+      "key": "87652634affffff",
+      "count": 7
+    },
+    {
+      "key": "87652634dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c94ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520cacffffff",
+      "count": 11
+    },
+    {
+      "key": "876520d85ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c18ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c12ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c1affffff",
+      "count": 0
+    },
+    {
+      "key": "87652636dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c14ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c13ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520cb2ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c11ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c80ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c84ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c1dffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c15ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad5ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c16ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d8bffffff",
+      "count": 0
+    },
+    {
+      "key": "87652634cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526344ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d89ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1effffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad0ffffff",
+      "count": 1
+    },
+    {
+      "key": "876526345ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520db0ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c95ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526340ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526369ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d95ffffff",
+      "count": 381
+    },
+    {
+      "key": "876520c86ffffff",
+      "count": 0
+    }
+  ],
+  "03/08/2010 09:30:05-03/08/2010 09:45:05": [
+    {
+      "key": "876526375ffffff",
+      "count": 9
+    },
+    {
+      "key": "876526acaffffff",
+      "count": 15
+    },
+    {
+      "key": "876526365ffffff",
+      "count": 57
+    },
+    {
+      "key": "876526ac3ffffff",
+      "count": 98
+    },
+    {
+      "key": "876526368ffffff",
+      "count": 6
+    },
+    {
+      "key": "876520cb0ffffff",
+      "count": 12
+    },
+    {
+      "key": "876520d82ffffff",
+      "count": 272
+    },
+    {
+      "key": "876520db3ffffff",
+      "count": 307
+    },
+    {
+      "key": "876526363ffffff",
+      "count": 6
+    },
+    {
+      "key": "876526ad1ffffff",
+      "count": 62
+    },
+    {
+      "key": "876520ca6ffffff",
+      "count": 104
+    },
+    {
+      "key": "876520d9dffffff",
+      "count": 103
+    },
+    {
+      "key": "876520d90ffffff",
+      "count": 259
+    },
+    {
+      "key": "876520cb4ffffff",
+      "count": 7
+    },
+    {
+      "key": "876520ca3ffffff",
+      "count": 52
+    },
+    {
+      "key": "876526366ffffff",
+      "count": 19
+    },
+    {
+      "key": "876520d86ffffff",
+      "count": 487
+    },
+    {
+      "key": "876526ac8ffffff",
+      "count": 107
+    },
+    {
+      "key": "876526341ffffff",
+      "count": 59
+    },
+    {
+      "key": "87652634effffff",
+      "count": 10
+    },
+    {
+      "key": "876520d92ffffff",
+      "count": 101
+    },
+    {
+      "key": "876526361ffffff",
+      "count": 50
+    },
+    {
+      "key": "876520cb1ffffff",
+      "count": 9
+    },
+    {
+      "key": "876520cb3ffffff",
+      "count": 12
+    },
+    {
+      "key": "876520ca1ffffff",
+      "count": 61
+    },
+    {
+      "key": "876520d98ffffff",
+      "count": 33
+    },
+    {
+      "key": "876526adcffffff",
+      "count": 127
+    },
+    {
+      "key": "876520d83ffffff",
+      "count": 116
+    },
+    {
+      "key": "876520d80ffffff",
+      "count": 176
+    },
+    {
+      "key": "876526aceffffff",
+      "count": 137
+    },
+    {
+      "key": "876520d96ffffff",
+      "count": 78
+    },
+    {
+      "key": "876526ac9ffffff",
+      "count": 185
+    },
+    {
+      "key": "876520d94ffffff",
+      "count": 232
+    },
+    {
+      "key": "876526ad9ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d93ffffff",
+      "count": 38
+    },
+    {
+      "key": "876526ac1ffffff",
+      "count": 35
+    },
+    {
+      "key": "876526addffffff",
+      "count": 105
+    },
+    {
+      "key": "876526349ffffff",
+      "count": 39
+    },
+    {
+      "key": "876526348ffffff",
+      "count": 38
+    },
+    {
+      "key": "876526ad8ffffff",
+      "count": 58
+    },
+    {
+      "key": "876526acdffffff",
+      "count": 81
+    },
+    {
+      "key": "876526accffffff",
+      "count": 29
+    },
+    {
+      "key": "876520ca4ffffff",
+      "count": 40
+    },
+    {
+      "key": "876520caeffffff",
+      "count": 58
+    },
+    {
+      "key": "876520db2ffffff",
+      "count": 42
+    },
+    {
+      "key": "876526360ffffff",
+      "count": 39
+    },
+    {
+      "key": "87652636cffffff",
+      "count": 92
+    },
+    {
+      "key": "876520d8affffff",
+      "count": 60
+    },
+    {
+      "key": "876526362ffffff",
+      "count": 17
+    },
+    {
+      "key": "876520ca0ffffff",
+      "count": 59
+    },
+    {
+      "key": "876520db1ffffff",
+      "count": 43
+    },
+    {
+      "key": "876520d99ffffff",
+      "count": 62
+    },
+    {
+      "key": "876520d8effffff",
+      "count": 37
+    },
+    {
+      "key": "876520d81ffffff",
+      "count": 22
+    },
+    {
+      "key": "876526364ffffff",
+      "count": 25
+    },
+    {
+      "key": "87652636effffff",
+      "count": 20
+    },
+    {
+      "key": "876526ad3ffffff",
+      "count": 6
+    },
+    {
+      "key": "876526343ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9cffffff",
+      "count": 81
+    },
+    {
+      "key": "876526acbffffff",
+      "count": 26
+    },
+    {
+      "key": "876526adeffffff",
+      "count": 9
+    },
+    {
+      "key": "876520ca2ffffff",
+      "count": 27
+    },
+    {
+      "key": "87652634bffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac2ffffff",
+      "count": 4
+    },
+    {
+      "key": "876520d84ffffff",
+      "count": 50
+    },
+    {
+      "key": "876520d9bffffff",
+      "count": 23
+    },
+    {
+      "key": "876520cb5ffffff",
+      "count": 14
+    },
+    {
+      "key": "876526adbffffff",
+      "count": 7
+    },
+    {
+      "key": "876520da3ffffff",
+      "count": 0
+    },
+    {
+      "key": "87652636affffff",
+      "count": 4
+    },
+    {
+      "key": "87652636bffffff",
+      "count": 3
+    },
+    {
+      "key": "876520d91ffffff",
+      "count": 46
+    },
+    {
+      "key": "876520ca5ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cf6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c82ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9affffff",
+      "count": 0
+    },
+    {
+      "key": "876520d9effffff",
+      "count": 6
+    },
+    {
+      "key": "876520ca9ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520cb6ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520cadffffff",
+      "count": 6
+    },
+    {
+      "key": "87652634affffff",
+      "count": 0
+    },
+    {
+      "key": "87652634dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c94ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520cacffffff",
+      "count": 10
+    },
+    {
+      "key": "876520d85ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c18ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c12ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c1affffff",
+      "count": 3
+    },
+    {
+      "key": "87652636dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c14ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c13ffffff",
+      "count": 3
+    },
+    {
+      "key": "876520cb2ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c11ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c80ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c84ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1dffffff",
+      "count": 1
+    },
+    {
+      "key": "876520c15ffffff",
+      "count": 1
+    },
+    {
+      "key": "876526ad5ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c85ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac6ffffff",
+      "count": 2
+    },
+    {
+      "key": "876520c16ffffff",
+      "count": 1
+    },
+    {
+      "key": "876520d8bffffff",
+      "count": 1
+    },
+    {
+      "key": "87652634cffffff",
+      "count": 2
+    },
+    {
+      "key": "876526344ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d89ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1effffff",
+      "count": 0
+    },
+    {
+      "key": "876526ad0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526345ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c1cffffff",
+      "count": 0
+    },
+    {
+      "key": "876526ac0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520db0ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520c95ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526340ffffff",
+      "count": 0
+    },
+    {
+      "key": "876526369ffffff",
+      "count": 0
+    },
+    {
+      "key": "876520d95ffffff",
+      "count": 437
+    },
+    {
+      "key": "876520c86ffffff",
+      "count": 0
+    }
+  ]
 }

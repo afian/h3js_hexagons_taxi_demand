@@ -9,9 +9,13 @@ import 'rc-slider/assets/index.css';
 import './MapBoxMultipleHex.scss';
 import Slider from "rc-slider";
 import moment from "moment";
+import { pointInPolygon } from "../tasks/common";
 
+const singaporeHexagonsCount = require('../data/singapore_hexagons_count.json');
 const singaporeTaxiData = require('../data/singapore_taxi_data.json');
 const singaporeTaxiHexagon = require('../data/singapore_taxi_hexagon.json');
+
+console.log(singaporeTaxiHexagon);
 const sortTaxiData = sortBy(singaporeTaxiData, (element) => moment(element.date_time, 'DD/MM/YYYY HH:mm:ss'))
 const formatDateTime= "DD/MM/YYYY HH:mm:ss"
 const firstDateTime = moment(sortTaxiData[0].date_time, formatDateTime)
@@ -29,10 +33,58 @@ function MapBox() {
     const [singaporeHexagonsArr, setSingaporeHexagonsArr] = useState([]);
     const [sliderTitle, setSliderTitle] = useState(dateTimes[0].format('HH:mm') + ' - ' + dateTimes[1].format('HH:mm'));
     const [currentStep, setCurrentStep] = useState(1);
+    const [isFirstLoading, setIsFirstLoading] = useState(true);
+    const [isProcess, setIsProcess] = useState(false);
 
     useEffect(() => {
-      getHexagon();
-    }, [currentStep])
+      getExampleHexagon();
+    }, [])
+
+    const getExampleHexagon = async () => {
+      if (isProcess) return;
+    
+      setIsProcess(true);
+    
+      const rs = {};
+      const lngLatSin = {};
+    
+      Object.keys(singaporeHexagonsCount).forEach(key => {
+        const coordinates = cellToBoundary(key, true);
+        lngLatSin[key] = coordinates;
+      });
+    
+      const taxiDataPromises = dateTimes.map(async (end, index) => {
+        const start = index === 0 ? moment(0) : dateTimes[index - 1];
+    
+        const taxiInTimes = sortTaxiData.filter(st =>
+          moment(st.date_time, 'DD/MM/YYYY HH:mm:ss').isBetween(start, end)
+        );
+    
+        const rsHexagon = await Promise.all(
+          Object.keys(lngLatSin).map(async key => {
+            const coordinates = lngLatSin[key];
+            const count = taxiInTimes.filter(st =>
+              pointInPolygon([st.longitude, st.latitude], coordinates)
+            ).length;
+
+            console.log({key, count})
+    
+            return { key, count };
+          })
+        );
+    
+        rs[start.format(formatDateTime) + '-' + end.format(formatDateTime)] = rsHexagon;
+      });
+    
+      await Promise.all(taxiDataPromises);
+    
+      console.log(JSON.stringify(rs));
+      setIsFirstLoading(false);
+    };
+    
+    useEffect(() => {
+      isFirstLoading && getHexagon();
+    }, [currentStep, isFirstLoading])
 
     const getRandomStyle = (row) => {
         const styles = [
@@ -62,14 +114,15 @@ function MapBox() {
     }
 
     const getHexagon = () => {
-      const singaporeHexagonsArr = singaporeTaxiHexagon[dateTimes[currentStep - 1].format(formatDateTime) + '-'+ dateTimes[currentStep].format(formatDateTime)]
+      const singaporeHexagonsObj = singaporeTaxiHexagon[dateTimes[currentStep - 1].format(formatDateTime) + '-'+ dateTimes[currentStep].format(formatDateTime)]
       const sgHexagonsArr = [];
-      singaporeHexagonsArr.forEach(singaporeHexagon => {
-        sgHexagonsArr.push({
-          hexindex7: singaporeHexagon.key,
-          bookingCount: singaporeHexagon.count
-        });
-      })
+
+      for (const hexagon in singaporeHexagonsObj) {
+          sgHexagonsArr.push({
+            hexindex7: hexagon,
+            bookingCount: singaporeHexagonsObj[hexagon]
+          });
+      }
       
       const rs = sgHexagonsArr.map((row) => {
           const style = getStyle(row);
@@ -139,9 +192,10 @@ function MapBox() {
         }
         return styles[4];
     };
+
+    if (isFirstLoading) return <></>
   
     return (
-      
         <div className="wrapper">
           <div className="map">
             <Map
